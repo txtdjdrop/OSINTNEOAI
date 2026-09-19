@@ -1,0 +1,40 @@
+{
+  "name": "Street_STORM",
+  "where": "UPPER(STREETNAME) LIKE '%STORM%'",
+  "count": 1,
+  "features": [
+    {
+      "attributes": {
+        "STREETNAME": "STORM",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 4,
+        "FOID": 31400,
+        "Shape__Length": 435.2010374899096,
+        "OBJECTID": 37737,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6039345.807012394,
+              2221063.939088732
+            ],
+            [
+              6038910.623827636,
+              2221067.881009981
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            45852,
+            45853
+          ]
+        ]
+      }
+    }
+  ]
+}

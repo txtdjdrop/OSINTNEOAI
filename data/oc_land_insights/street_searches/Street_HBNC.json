@@ -1,0 +1,6 @@
+{
+  "name": "Street_HBNC",
+  "where": "UPPER(STREETNAME) LIKE '%HBNC%'",
+  "count": 0,
+  "features": []
+}

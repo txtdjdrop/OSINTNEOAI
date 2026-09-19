@@ -1,0 +1,745 @@
+{
+  "count": 74,
+  "features": [
+    {
+      "attributes": {
+        "FID": 1,
+        "Address": "18021 Newland St."
+      },
+      "geometry": {
+        "x": -13133536.685988374,
+        "y": 3988681.2459655716
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "Address": "21612 Kaneohe Ln."
+      },
+      "geometry": {
+        "x": -13132027.537692282,
+        "y": 3981739.0987752583
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "Address": "22372 Harwich Ln."
+      },
+      "geometry": {
+        "x": -13131610.508263085,
+        "y": 3980311.1150236814
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "Address": "9171 Five Harbors Dr."
+      },
+      "geometry": {
+        "x": -13132100.87077745,
+        "y": 3983284.5975663997
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "Address": "6371 Yale Cir."
+      },
+      "geometry": {
+        "x": -13137657.884251751,
+        "y": 3994273.3957165945
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "Address": "7553 Quiet Cove Cir."
+      },
+      "geometry": {
+        "x": -13135341.285030046,
+        "y": 3986968.1050040093
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "Address": "9921 Mammoth"
+      },
+      "geometry": {
+        "x": -13130692.235880295,
+        "y": 3984500.934700079
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "Address": "6902 Spickard Dr."
+      },
+      "geometry": {
+        "x": -13136585.957015054,
+        "y": 3989734.5102116913
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9,
+        "Address": "16742 Jeffrey Cir."
+      },
+      "geometry": {
+        "x": -13133706.153655456,
+        "y": 3991156.266604141
+      }
+    },
+    {
+      "attributes": {
+        "FID": 10,
+        "Address": "15951 Willett Ln."
+      },
+      "geometry": {
+        "x": -13138029.792245345,
+        "y": 3992658.499233406
+      }
+    },
+    {
+      "attributes": {
+        "FID": 11,
+        "Address": "408 8th St."
+      },
+      "geometry": {
+        "x": -13135929.286813714,
+        "y": 3983530.4311293946
+      }
+    },
+    {
+      "attributes": {
+        "FID": 12,
+        "Address": "22021 Jonesport Ln."
+      },
+      "geometry": {
+        "x": -13131162.795245195,
+        "y": 3980965.11058829
+      }
+    },
+    {
+      "attributes": {
+        "FID": 13,
+        "Address": "225 7th St."
+      },
+      "geometry": {
+        "x": -13136024.43899118,
+        "y": 3983325.8499274803
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "Address": "7801 Slater Ave."
+      },
+      "geometry": {
+        "x": -13134839.090780752,
+        "y": 3989755.3897760785
+      }
+    },
+    {
+      "attributes": {
+        "FID": 15,
+        "Address": "20511 Kelvingrove Ln."
+      },
+      "geometry": {
+        "x": -13132184.556409895,
+        "y": 3983879.811830601
+      }
+    },
+    {
+      "attributes": {
+        "FID": 16,
+        "Address": "304 7th St."
+      },
+      "geometry": {
+        "x": -13135944.47696995,
+        "y": 3983318.5096585755
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17,
+        "Address": "227 Atlanta Ave."
+      },
+      "geometry": {
+        "x": -13135177.311674044,
+        "y": 3982938.09655966
+      }
+    },
+    {
+      "attributes": {
+        "FID": 18,
+        "Address": "9891 Mammoth"
+      },
+      "geometry": {
+        "x": -13130760.237151483,
+        "y": 3984499.6086840224
+      }
+    },
+    {
+      "attributes": {
+        "FID": 19,
+        "Address": "19852 Lexington Ln."
+      },
+      "geometry": {
+        "x": -13129911.600156354,
+        "y": 3985147.9465956776
+      }
+    },
+    {
+      "attributes": {
+        "FID": 20,
+        "Address": "308 22nd St."
+      },
+      "geometry": {
+        "x": -13137293.533053223,
+        "y": 3984506.320567934
+      }
+    },
+    {
+      "attributes": {
+        "FID": 21,
+        "Address": "9612 Indian Wells Cir."
+      },
+      "geometry": {
+        "x": -13131252.088507801,
+        "y": 3982227.6580109326
+      }
+    },
+    {
+      "attributes": {
+        "FID": 22,
+        "Address": "10412 Christmas Dr."
+      },
+      "geometry": {
+        "x": -13129747.539992625,
+        "y": 3985901.8826890625
+      }
+    },
+    {
+      "attributes": {
+        "FID": 23,
+        "Address": "217 19th St."
+      },
+      "geometry": {
+        "x": -13137143.796572596,
+        "y": 3984240.8033616147
+      }
+    },
+    {
+      "attributes": {
+        "FID": 24,
+        "Address": "8772 De Ville Cir."
+      },
+      "geometry": {
+        "x": -13132986.420905776,
+        "y": 3991396.766177243
+      }
+    },
+    {
+      "attributes": {
+        "FID": 25,
+        "Address": "114 15th St."
+      },
+      "geometry": {
+        "x": -13136817.576868542,
+        "y": 3983771.023874297
+      }
+    },
+    {
+      "attributes": {
+        "FID": 26,
+        "Address": "528 16th St."
+      },
+      "geometry": {
+        "x": -13136490.044725224,
+        "y": 3984339.1429410074
+      }
+    },
+    {
+      "attributes": {
+        "FID": 27,
+        "Address": "19392 Weymouth Ln."
+      },
+      "geometry": {
+        "x": -13134085.553624788,
+        "y": 3986009.142353598
+      }
+    },
+    {
+      "attributes": {
+        "FID": 28,
+        "Address": "312 22nd St."
+      },
+      "geometry": {
+        "x": -13137282.718981797,
+        "y": 3984521.662139392
+      }
+    },
+    {
+      "attributes": {
+        "FID": 29,
+        "Address": "6191 Norbrook Dr."
+      },
+      "geometry": {
+        "x": -13137967.123014953,
+        "y": 3988217.895647819
+      }
+    },
+    {
+      "attributes": {
+        "FID": 30,
+        "Address": "8422 Polder Cir."
+      },
+      "geometry": {
+        "x": -13133644.876407996,
+        "y": 3990320.5175111145
+      }
+    },
+    {
+      "attributes": {
+        "FID": 31,
+        "Address": "817 Frankfort Ave."
+      },
+      "geometry": {
+        "x": -13134564.732764797,
+        "y": 3983773.1654494684
+      }
+    },
+    {
+      "attributes": {
+        "FID": 32,
+        "Address": "20691 Suburbia Ln."
+      },
+      "geometry": {
+        "x": -13130510.622429363,
+        "y": 3983538.118526134
+      }
+    },
+    {
+      "attributes": {
+        "FID": 33,
+        "Address": "518 14th St."
+      },
+      "geometry": {
+        "x": -13136342.310152087,
+        "y": 3984150.713440758
+      }
+    },
+    {
+      "attributes": {
+        "FID": 34,
+        "Address": "513 14th St."
+      },
+      "geometry": {
+        "x": -13136393.705764247,
+        "y": 3984179.380308471
+      }
+    },
+    {
+      "attributes": {
+        "FID": 35,
+        "Address": "806 Delaware St."
+      },
+      "geometry": {
+        "x": -13134865.650131507,
+        "y": 3983805.8477159715
+      }
+    },
+    {
+      "attributes": {
+        "FID": 36,
+        "Address": "14901 Sunnycrest Ln."
+      },
+      "geometry": {
+        "x": -13137643.514940118,
+        "y": 3994689.4076170493
+      }
+    },
+    {
+      "attributes": {
+        "FID": 37,
+        "Address": "526 16th St."
+      },
+      "geometry": {
+        "x": -13136496.051348636,
+        "y": 3984332.3492640518
+      }
+    },
+    {
+      "attributes": {
+        "FID": 38,
+        "Address": "8492 Hillhead Dr."
+      },
+      "geometry": {
+        "x": -13133457.202899244,
+        "y": 3982415.9350662786
+      }
+    },
+    {
+      "attributes": {
+        "FID": 39,
+        "Address": "17942 Fernpoint Cir."
+      },
+      "geometry": {
+        "x": -13138250.259317588,
+        "y": 3988812.714988096
+      }
+    },
+    {
+      "attributes": {
+        "FID": 40,
+        "Address": "2520 17th St."
+      },
+      "geometry": {
+        "x": -13135109.078253472,
+        "y": 3985944.1072768676
+      }
+    },
+    {
+      "attributes": {
+        "FID": 41,
+        "Address": "208 Rochester Ave."
+      },
+      "geometry": {
+        "x": -13135288.88150915,
+        "y": 3984949.252638228
+      }
+    },
+    {
+      "attributes": {
+        "FID": 42,
+        "Address": "20451 Everglades Ln."
+      },
+      "geometry": {
+        "x": -13131015.177772313,
+        "y": 3983990.4158616355
+      }
+    },
+    {
+      "attributes": {
+        "FID": 43,
+        "Address": "723 Owen Dr."
+      },
+      "geometry": {
+        "x": -13134567.038929801,
+        "y": 3986241.41477565
+      }
+    },
+    {
+      "attributes": {
+        "FID": 44,
+        "Address": "727 Owen Dr."
+      },
+      "geometry": {
+        "x": -13134551.450432966,
+        "y": 3986240.256005202
+      }
+    },
+    {
+      "attributes": {
+        "FID": 45,
+        "Address": "703 California St."
+      },
+      "geometry": {
+        "x": -13135057.527453704,
+        "y": 3983675.193460117
+      }
+    },
+    {
+      "attributes": {
+        "FID": 46,
+        "Address": "9061 Mediterranean Dr."
+      },
+      "geometry": {
+        "x": -13132369.202510063,
+        "y": 3984576.1038528816
+      }
+    },
+    {
+      "attributes": {
+        "FID": 47,
+        "Address": "10321 Christmas"
+      },
+      "geometry": {
+        "x": -13129915.332768558,
+        "y": 3985960.7826052173
+      }
+    },
+    {
+      "attributes": {
+        "FID": 48,
+        "Address": "812 Huntington St."
+      },
+      "geometry": {
+        "x": -13135111.063616881,
+        "y": 3983834.9126945776
+      }
+    },
+    {
+      "attributes": {
+        "FID": 49,
+        "Address": "720 Huntington St."
+      },
+      "geometry": {
+        "x": -13135111.633887045,
+        "y": 3983754.123109311
+      }
+    },
+    {
+      "attributes": {
+        "FID": 50,
+        "Address": "602 15th St."
+      },
+      "geometry": {
+        "x": -13136377.752977083,
+        "y": 3984290.9775039232
+      }
+    },
+    {
+      "attributes": {
+        "FID": 51,
+        "Address": "9812 Olympic"
+      },
+      "geometry": {
+        "x": -13130927.644688584,
+        "y": 3984822.588169216
+      }
+    },
+    {
+      "attributes": {
+        "FID": 52,
+        "Address": "5721 Windcroft Dr."
+      },
+      "geometry": {
+        "x": -13138873.681738995,
+        "y": 3989431.584732103
+      }
+    },
+    {
+      "attributes": {
+        "FID": 53,
+        "Address": "602 Ashland Dr."
+      },
+      "geometry": {
+        "x": -13134800.340500124,
+        "y": 3984404.3019395918
+      }
+    },
+    {
+      "attributes": {
+        "FID": 54,
+        "Address": "316 16th St."
+      },
+      "geometry": {
+        "x": -13136738.893142756,
+        "y": 3984065.763351888
+      }
+    },
+    {
+      "attributes": {
+        "FID": 55,
+        "Address": "517 14th St."
+      },
+      "geometry": {
+        "x": -13136388.361752965,
+        "y": 3984192.521729449
+      }
+    },
+    {
+      "attributes": {
+        "FID": 56,
+        "Address": "522 16th St."
+      },
+      "geometry": {
+        "x": -13136505.442858033,
+        "y": 3984317.6545253405
+      }
+    },
+    {
+      "attributes": {
+        "FID": 57,
+        "Address": "8211 Burnham Cir."
+      },
+      "geometry": {
+        "x": -13134036.722170465,
+        "y": 3985871.5076357583
+      }
+    },
+    {
+      "attributes": {
+        "FID": 58,
+        "Address": "19371 Worchester Ln."
+      },
+      "geometry": {
+        "x": -13134231.4499774,
+        "y": 3986047.8874007077
+      }
+    },
+    {
+      "attributes": {
+        "FID": 59,
+        "Address": "19322 Beach Blvd. #202"
+      },
+      "geometry": {
+        "x": -13134369.297931103,
+        "y": 3986149.3561286204
+      }
+    },
+    {
+      "attributes": {
+        "FID": 60,
+        "Address": "8301 Yorktown Ave."
+      },
+      "geometry": {
+        "x": -13133833.284201689,
+        "y": 3985878.4558980633
+      }
+    },
+    {
+      "attributes": {
+        "FID": 61,
+        "Address": "8122 Blaylock Dr."
+      },
+      "geometry": {
+        "x": -13134245.204627525,
+        "y": 3990413.531008977
+      }
+    },
+    {
+      "attributes": {
+        "FID": 62,
+        "Address": "914 California St."
+      },
+      "geometry": {
+        "x": -13135001.832185311,
+        "y": 3983968.239155966
+      }
+    },
+    {
+      "attributes": {
+        "FID": 63,
+        "Address": "21621 Kaneohe Ln."
+      },
+      "geometry": {
+        "x": -13132084.040725596,
+        "y": 3981713.5945980446
+      }
+    },
+    {
+      "attributes": {
+        "FID": 64,
+        "Address": "21892 Starfire Ln."
+      },
+      "geometry": {
+        "x": -13131654.356426377,
+        "y": 3981176.281281041
+      }
+    },
+    {
+      "attributes": {
+        "FID": 65,
+        "Address": "20681 Chaucer Ln."
+      },
+      "geometry": {
+        "x": -13132352.200907588,
+        "y": 3983519.5563122095
+      }
+    },
+    {
+      "attributes": {
+        "FID": 66,
+        "Address": "18801 Flagstaff Ln."
+      },
+      "geometry": {
+        "x": -13133694.375099108,
+        "y": 3987193.986330736
+      }
+    },
+    {
+      "attributes": {
+        "FID": 67,
+        "Address": "9582 Yellowstone Dr."
+      },
+      "geometry": {
+        "x": -13131362.93911358,
+        "y": 3984359.650828315
+      }
+    },
+    {
+      "attributes": {
+        "FID": 68,
+        "Address": "519 13th St."
+      },
+      "geometry": {
+        "x": -13136292.648243384,
+        "y": 3984120.2495517707
+      }
+    },
+    {
+      "attributes": {
+        "FID": 69,
+        "Address": "416 19th St."
+      },
+      "geometry": {
+        "x": -13136897.465306416,
+        "y": 3984419.382884614
+      }
+    },
+    {
+      "attributes": {
+        "FID": 70,
+        "Address": "626 Main St."
+      },
+      "geometry": {
+        "x": -13135542.497017367,
+        "y": 3983701.8592656283
+      }
+    },
+    {
+      "attributes": {
+        "FID": 71,
+        "Address": "213 Knoxville Ave."
+      },
+      "geometry": {
+        "x": -13135256.951501748,
+        "y": 3984155.3991617044
+      }
+    },
+    {
+      "attributes": {
+        "FID": 72,
+        "Address": "231 Alabama"
+      },
+      "geometry": {
+        "x": -13135349.719398953,
+        "y": 3983181.776730473
+      }
+    },
+    {
+      "attributes": {
+        "FID": 73,
+        "Address": "9461 Banning Ave."
+      },
+      "geometry": {
+        "x": -13131514.729201512,
+        "y": 3981030.497305913
+      }
+    },
+    {
+      "attributes": {
+        "FID": 74,
+        "Address": "4621 Los Patos Ave."
+      },
+      "geometry": {
+        "x": -13140995.848004304,
+        "y": 3990180.3531875075
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Street_SL_20_",
+  "where": "UPPER(STREETNAME) LIKE '%SL%20%%' OR UPPER(STREET_NAM) LIKE '%SL%20%%' OR UPPER(FULLNAME) LIKE '%SL%20%%'",
+  "count": 0,
+  "time": "2026-09-16T06:52:12.217293",
+  "features": []
+}

@@ -1,0 +1,157 @@
+{
+  "count": 8,
+  "features": [
+    {
+      "attributes": {
+        "FID": 1,
+        "id": 70,
+        "Name": "Beach and Ellis - Elan Mixed Use",
+        "Location": "18502 Beach Blvd & 18508-18552 Beach Blvd",
+        "Applicant": "Jim Ivory",
+        "DPM": " ",
+        "PM_Contact": " ",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.693451,
+        "long": -117.987938
+      },
+      "geometry": {
+        "x": -13134357.133380534,
+        "y": 3987713.9125945233
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "id": 71,
+        "Name": "Brightwater",
+        "Location": "Proximate to Warner & Los Patos",
+        "Applicant": "California Coastal Communities",
+        "DPM": "Jason Kelley",
+        "PM_Contact": "jkelley@surfcity-hb.org",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.70932,
+        "long": -118.045965
+      },
+      "geometry": {
+        "x": -13140816.75852839,
+        "y": 3989837.2731632865
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "id": 73,
+        "Name": "Huntington Beach Senior Center",
+        "Location": "18041 Goldenwest St (Central Park, 5 acre area SW of intersection of Goldenwest St & Talber Ave)",
+        "Applicant": "City of Huntington Beach",
+        "DPM": "Jennifer Villasenor",
+        "PM_Contact": "jvillasenor@surfcity-hb.org",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.700311,
+        "long": -118.007428
+      },
+      "geometry": {
+        "x": -13136526.783651944,
+        "y": 3988631.7898662756
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "id": 76,
+        "Name": "Pacific City",
+        "Location": "Bounded by Pacific View Ave, 1st St, Atlanta Ave, and Huntington St",
+        "Applicant": "Commercial: DJM Capital Partners, Inc; Hotel: R.D. Olsen Development; Residential: UDR",
+        "DPM": "Jason Kelley",
+        "PM_Contact": "jkelley@surfcity-hb.org",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.65563,
+        "long": -117.996659
+      },
+      "geometry": {
+        "x": -13135328.039715337,
+        "y": 3982654.726034971
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "id": 77,
+        "Name": "The Boardwalk",
+        "Location": "NE corner of Edinger Ave and Gothard St (Former Levitz furniture store site)",
+        "Applicant": "Sares-Regis Group",
+        "DPM": "Jennifer Villasenor",
+        "PM_Contact": "jvillasenor@surfcity-hb.org",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.731563,
+        "long": -117.999123
+      },
+      "geometry": {
+        "x": -13135602.275280908,
+        "y": 3992814.1345710903
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "id": 72,
+        "Name": "Huntington Beach Lofts",
+        "Location": "7302-7400 Center Ave, across from Goldenwest College. SE corner of Gothard & Center",
+        "Applicant": "Avalon Bay Communities, Inc.",
+        "DPM": " ",
+        "PM_Contact": " ",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.733193,
+        "long": -117.999427
+      },
+      "geometry": {
+        "x": -13135636.135797242,
+        "y": 3993032.4192837006
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "id": 75,
+        "Name": "Magnolia Tank Farm Vehicle Storage",
+        "Location": "21845 Magnolia St.",
+        "Applicant": "Ethan Edwards, Esquared Planning",
+        "DPM": "Joanna Cortez",
+        "PM_Contact": " ",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.64522,
+        "long": -117.972531
+      },
+      "geometry": {
+        "x": -13132642.12647011,
+        "y": 3981262.651765192
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "id": 74,
+        "Name": "Huntington Gateway Business Park",
+        "Location": "5241 Bolsa Ave",
+        "Applicant": "Patrick Russell, Huntington Gateway Industrial, LLC",
+        "DPM": "Hayden Beckman",
+        "PM_Contact": "hayden.beckman@surfcity-hb.org",
+        "Status": "Completed",
+        "icon_color": "g",
+        "lat": 33.745796,
+        "long": -118.03933
+      },
+      "geometry": {
+        "x": -13140078.109179182,
+        "y": 3994719.5000737268
+      }
+    }
+  ]
+}

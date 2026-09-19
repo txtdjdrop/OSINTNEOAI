@@ -1,0 +1,210 @@
+{
+  "name": "Street_SOUTH_LAKE",
+  "where": "UPPER(STREETNAME) LIKE '%SOUTH LAKE%'",
+  "count": 6,
+  "features": [
+    {
+      "attributes": {
+        "STREETNAME": "SOUTH LAKESHORE",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 5,
+        "FOID": 2075284,
+        "Shape__Length": 29.958527485883696,
+        "OBJECTID": 226158,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6070529.860457808,
+              2250412.0342638046
+            ],
+            [
+              6070530.380797967,
+              2250441.9882721454
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            5661249,
+            5661252
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "STREETNAME": "SOUTH LAKESHORE",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 5,
+        "FOID": 2075284,
+        "Shape__Length": 145.1500459757204,
+        "OBJECTID": 226159,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6070530.380797967,
+              2250441.9882721454
+            ],
+            [
+              6070533.196081057,
+              2250587.1110133976
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            5661252,
+            5661253
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "STREETNAME": "SOUTH LAKESHORE",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 5,
+        "FOID": 2075284,
+        "Shape__Length": 30.818029269041546,
+        "OBJECTID": 226160,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6070533.196081057,
+              2250587.1110133976
+            ],
+            [
+              6070534.558917685,
+              2250602.4596427307
+            ],
+            [
+              6070538.024811551,
+              2250617.4738135636
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            5661253,
+            0,
+            5661254
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "STREETNAME": "SOUTH LAKESHORE",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 5,
+        "FOID": 2075284,
+        "Shape__Length": 109.63815461773278,
+        "OBJECTID": 226161,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6070538.024811551,
+              2250617.4738135636
+            ],
+            [
+              6070570.007687226,
+              2250722.3433544785
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            5661254,
+            5661256
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "STREETNAME": "SOUTH LAKESHORE",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 5,
+        "FOID": 2075284,
+        "Shape__Length": 52.11897726474756,
+        "OBJECTID": 226162,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6070570.007687226,
+              2250722.3433544785
+            ],
+            [
+              6070622.118803471,
+              2250721.438172564
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            5661256,
+            5661257
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "STREETNAME": "SOUTH LAKESHORE",
+        "OLDSTREETNAME": "",
+        "PREFIX": "",
+        "SUFFIX": "DR",
+        "STREETCODE": 5,
+        "FOID": 2075284,
+        "Shape__Length": 52.16457397578443,
+        "OBJECTID": 226163,
+        "NOTES": null
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6070570.007687226,
+              2250722.3433544785
+            ],
+            [
+              6070517.850967392,
+              2250723.248536393
+            ]
+          ]
+        ],
+        "ids": [
+          [
+            5661256,
+            5661258
+          ]
+        ]
+      }
+    }
+  ]
+}

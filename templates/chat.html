@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+{% set active = "chat" %}
+{% block title %}OsintNeoAI - Chat{% endblock %}
+{% block content %}
+<style>
+    .chat-container{display:flex;flex-direction:column;height:calc(100vh - 120px)}
+    .messages{flex:1;overflow-y:auto;padding:10px 0;scroll-behavior:smooth}
+    .msg{margin:8px 0;max-width:85%;padding:10px 12px;border-radius:12px;font-size:0.85em;line-height:1.4;word-wrap:break-word}
+    .msg.user{background:var(--fg);color:#000;margin-left:auto;border-bottom-right-radius:4px}
+    .msg.assistant{background:var(--card);border:1px solid var(--border);margin-right:auto;border-bottom-left-radius:4px}
+    .msg .time{font-size:0.65em;color:var(--dim);margin-top:4px}
+    .msg pre{margin:6px 0;padding:6px;background:#000;color:var(--fg);border-radius:4px;font-size:0.85em}
+    .input-bar{display:flex;gap:6px;padding:10px 0;background:var(--bg);border-top:1px solid var(--border);position:sticky;bottom:0}
+    .input-bar input{flex:1;background:#1a1a1a;border:1px solid var(--border);color:var(--fg);padding:10px 12px;border-radius:6px;font-family:inherit;font-size:0.9em}
+    .input-bar input:focus{outline:none;border-color:var(--fg)}
+    .input-bar button{padding:10px 16px;border-radius:6px;width:auto}
+    .typing{display:none;color:var(--dim);font-size:0.8em;padding:4px 0}
+    .typing.show{display:block}
+    .suggestions{display:flex;flex-wrap:wrap;gap:4px;padding:8px 0}
+    .suggestions button{width:auto;padding:5px 10px;font-size:0.7em;border-radius:12px;background:#1a1a1a;color:var(--fg);border:1px solid var(--border)}
+    .welcome{text-align:center;padding:30px 10px;color:var(--dim)}
+    .welcome h2{color:var(--fg);margin-bottom:8px}
+</style>
+
+<div class="chat-container">
+    <div class="messages" id="messages">
+        <div class="welcome">
+            <h2>OSINTNEOAI</h2>
+            <p class="text-sm">Ask about EDR hits, parcels, evidence, or run the pipeline.</p>
+        </div>
+        
+        {% for msg in history %}
+        <div class="msg {{ msg.role }}">{{ msg.content|replace('\n', '<br>')|safe }}
+            <div class="time">{{ msg.created_at }}</div>
+        </div>
+        {% endfor %}
+    </div>
+    
+    <div class="suggestions" id="suggestions">
+        <button onclick="sendQuick('edr')">EDR Summary</button>
+        <button onclick="sendQuick('parcels')">Parcels</button>
+        <button onclick="sendQuick('files')">Top Files</button>
+        <button onclick="sendQuick('pipeline')">Run Pipeline</button>
+        <button onclick="sendQuick('help')">Help</button>
+    </div>
+    
+    <div class="typing" id="typing">
+        <span class="spinner"></span> Thinking...
+    </div>
+    
+    <div class="input-bar">
+        <input type="text" id="input" placeholder="Ask anything..." autocomplete="off">
+        <button onclick="send()">SEND</button>
+    </div>
+</div>
+
+<script>
+const messagesEl = document.getElementById('messages');
+const inputEl = document.getElementById('input');
+const typingEl = document.getElementById('typing');
+const suggestionsEl = document.getElementById('suggestions');
+
+function addMessage(text, role) {
+    const div = document.createElement('div');
+    div.className = 'msg ' + role;
+    div.innerHTML = text.replace(/\n/g, '<br>') + '<div class="time">now</div>';
+    messagesEl.appendChild(div);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+}
+
+async function send() {
+    const text = inputEl.value.trim();
+    if (!text) return;
+    
+    inputEl.value = '';
+    addMessage(text, 'user');
+    suggestionsEl.style.display = 'none';
+    typingEl.classList.add('show');
+    
+    try {
+        const resp = await fetch('/api/chat', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({message: text})
+        });
+        const data = await resp.json();
+        typingEl.classList.remove('show');
+        addMessage(data.response, 'assistant');
+    } catch(e) {
+        typingEl.classList.remove('show');
+        addMessage('Error: ' + e.message, 'assistant');
+    }
+}
+
+function sendQuick(cmd) {
+    inputEl.value = cmd;
+    send();
+}
+
+inputEl.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') send();
+});
+
+// Scroll to bottom on load
+messagesEl.scrollTop = messagesEl.scrollHeight;
+</script>
+{% endblock %}

@@ -1,0 +1,385 @@
+{
+  "name": "Field_Services_CL_RW",
+  "count": 15,
+  "time": "2026-09-16T06:50:36.508277",
+  "features": [
+    {
+      "attributes": {
+        "Project_Name": "Eric's triangle ",
+        "Date_of_Survey": 1632268800000,
+        "Job_Number": "EF123456",
+        "Survey_File_Number": "test att update",
+        "Shape__Length": 103673.89264823869,
+        "OBJECTID": 1
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6049996.066551715,
+              2134558.4828348905
+            ],
+            [
+              6070223.212449059,
+              2142034.314667985
+            ],
+            [
+              6079468.161150724,
+              2123747.6028818935
+            ]
+          ],
+          [
+            [
+              6050564.997172385,
+              2098349.391867399
+            ],
+            [
+              6092827.619996056,
+              2113943.8934867233
+            ],
+            [
+              6079468.161150724,
+              2123747.6028818935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": null,
+        "Survey_File_Number": null,
+        "Shape__Length": 628.15089380258,
+        "OBJECTID": 401
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6069358.290950552,
+              2221591.0253048986
+            ],
+            [
+              6069370.768287808,
+              2222219.0522640646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": null,
+        "Survey_File_Number": null,
+        "Shape__Length": 0.006889749999999998,
+        "OBJECTID": 402
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6069358.297840297,
+              2221591.024976805
+            ],
+            [
+              6069358.290950552,
+              2221591.024976805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": null,
+        "Survey_File_Number": null,
+        "Shape__Length": 597.6615484395534,
+        "OBJECTID": 403
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6069955.901631966,
+              2221582.7162663937
+            ],
+            [
+              6069358.297840297,
+              2221591.024976805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": null,
+        "Survey_File_Number": null,
+        "Shape__Length": 19.56615972315198,
+        "OBJECTID": 404
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6069357.9021718055,
+              2221571.462679982
+            ],
+            [
+              6069358.290950552,
+              2221591.024976805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": "ER20543",
+        "Survey_File_Number": null,
+        "Shape__Length": 649.7162255714123,
+        "OBJECTID": 405
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6068793.641161218,
+              2220931.5394191444
+            ],
+            [
+              6068807.148680136,
+              2221581.115219727
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": "ER20543",
+        "Survey_File_Number": null,
+        "Shape__Length": 648.9215684096001,
+        "OBJECTID": 406
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6069048.628512144,
+              2220927.9442819804
+            ],
+            [
+              6069062.173104465,
+              2221576.72448048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": "ER20543",
+        "Survey_File_Number": null,
+        "Shape__Length": 856.4747567819904,
+        "OBJECTID": 407
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6068488.644067809,
+              2220935.7798962295
+            ],
+            [
+              6069345.036055803,
+              2220923.8730959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": "ER20543",
+        "Survey_File_Number": null,
+        "Shape__Length": 650.8217346094815,
+        "OBJECTID": 408
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6068502.329407886,
+              2221586.4577287287
+            ],
+            [
+              6068488.644067809,
+              2220935.7798962295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": "ER20543",
+        "Survey_File_Number": null,
+        "Shape__Length": 855.7041578974703,
+        "OBJECTID": 409
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6068502.329407886,
+              2221586.4577287287
+            ],
+            [
+              6069357.9021718055,
+              2221571.462679982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": "ER20543",
+        "Survey_File_Number": null,
+        "Shape__Length": 647.7173815439493,
+        "OBJECTID": 411
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6069345.036055803,
+              2220923.8730959
+            ],
+            [
+              6069357.9021718055,
+              2221571.462679982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": "Hazard and Newland Intersection",
+        "Date_of_Survey": 1623715200000,
+        "Job_Number": "EQ20003S",
+        "Survey_File_Number": "2021PW-PM0008",
+        "Shape__Length": 2640.6201773586195,
+        "OBJECTID": 801
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6038134.484959975,
+              2218971.0538388044
+            ],
+            [
+              6035493.964978561,
+              2218994.057073638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": "Hazard and Newland Intersection",
+        "Date_of_Survey": 1623715200000,
+        "Job_Number": "EQ20003S",
+        "Survey_File_Number": "2021PW-PM0008",
+        "Shape__Length": 2652.978259660947,
+        "OBJECTID": 802
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6038153.0928623825,
+              2221623.9668400586
+            ],
+            [
+              6038134.484959975,
+              2218971.0538388044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": null,
+        "Survey_File_Number": null,
+        "Shape__Length": 2637.8117701032434,
+        "OBJECTID": 803
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6038153.0928623825,
+              2221623.9668400586
+            ],
+            [
+              6035515.36093314,
+              2221644.490092978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "Project_Name": null,
+        "Date_of_Survey": null,
+        "Job_Number": null,
+        "Survey_File_Number": null,
+        "Shape__Length": 2637.9718711984574,
+        "OBJECTID": 804
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              6035515.36093314,
+              2221644.490092978
+            ],
+            [
+              6032877.47611706,
+              2221665.9211524725
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

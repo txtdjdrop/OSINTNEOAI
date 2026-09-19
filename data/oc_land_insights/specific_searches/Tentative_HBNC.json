@@ -1,0 +1,7 @@
+{
+  "name": "Tentative_HBNC",
+  "where": "UPPER(CITY) LIKE '%HBNC%' OR UPPER(ENGINEER) LIKE '%HBNC%' OR UPPER(CompanyName) LIKE '%HBNC%'",
+  "count": 0,
+  "time": "2026-09-16T06:52:13.712533",
+  "features": []
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Tentative_STORM",
+  "where": "UPPER(CITY) LIKE '%STORM%' OR UPPER(ENGINEER) LIKE '%STORM%' OR UPPER(CompanyName) LIKE '%STORM%'",
+  "count": 0,
+  "time": "2026-09-16T06:52:14.062921",
+  "features": []
+}

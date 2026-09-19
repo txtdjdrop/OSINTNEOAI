@@ -1,0 +1,7 @@
+{
+  "name": "Street_UNDERGROUND",
+  "where": "UPPER(STREETNAME) LIKE '%UNDERGROUND%' OR UPPER(STREET_NAM) LIKE '%UNDERGROUND%' OR UPPER(FULLNAME) LIKE '%UNDERGROUND%'",
+  "count": 0,
+  "time": "2026-09-16T06:52:12.680688",
+  "features": []
+}

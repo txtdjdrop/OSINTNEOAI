@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% set active = "admin" %}
+{% block title %}OsintNeoAI - Admin{% endblock %}
+{% block content %}
+<div class="card">
+    <h3>System Status</h3>
+    <button onclick="refresh()">Refresh</button>
+    <pre id="status">Loading...</pre>
+</div>
+
+<div class="card mt-1">
+    <h3>Disk Usage</h3>
+    <pre id="disk">Loading...</pre>
+</div>
+
+<div class="card mt-1">
+    <h3>Processes</h3>
+    <pre id="procs">Loading...</pre>
+</div>
+
+<div class="card mt-1">
+    <h3>Cron Jobs</h3>
+    <pre id="cron">Loading...</pre>
+</div>
+
+<div class="card mt-1">
+    <h3>Service Logs</h3>
+    <button onclick="loadLogs()">Load Logs</button>
+    <pre id="logs">Click to load...</pre>
+</div>
+
+<div class="card mt-1">
+    <h3>Query Stats</h3>
+    <pre id="stats">Loading...</pre>
+</div>
+
+<div class="card mt-1">
+    <h3>Actions</h3>
+    <button onclick="action('restart')" class="secondary">Restart Service</button>
+    <button onclick="action('update')" class="secondary">Update Code</button>
+    <button onclick="action('backup')" class="secondary">Backup to GDrive</button>
+    <pre id="action-output">Ready...</pre>
+</div>
+
+<script>
+async function refresh() {
+    try {
+        const resp = await fetch('/api/chat', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({message: 'status'})
+        });
+        const data = await resp.json();
+        document.getElementById('status').textContent = data.response;
+    } catch(e) { document.getElementById('status').textContent = 'Error: ' + e.message; }
+    
+    try {
+        const resp = await fetch('/api/chat', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({message: 'disk'})
+        });
+        const data = await resp.json();
+        document.getElementById('disk').textContent = data.response;
+    } catch(e) {}
+    
+    try {
+        const resp = await fetch('/api/stats');
+        const data = await resp.json();
+        document.getElementById('stats').textContent = `Total queries: ${data.total}\nTotal rows: ${data.total_rows}`;
+    } catch(e) {}
+}
+
+async function loadLogs() {
+    const el = document.getElementById('logs');
+    el.textContent = 'Loading...';
+    try {
+        const resp = await fetch('/api/logs');
+        const data = await resp.json();
+        el.textContent = data.logs;
+    } catch(e) { el.textContent = 'Error: ' + e.message; }
+}
+
+async function action(cmd) {
+    const el = document.getElementById('action-output');
+    el.textContent = `Running ${cmd}...`;
+    try {
+        const resp = await fetch('/api/chat', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({message: cmd})
+        });
+        const data = await resp.json();
+        el.textContent = data.response;
+    } catch(e) { el.textContent = 'Error: ' + e.message; }
+}
+
+refresh();
+</script>
+{% endblock %}

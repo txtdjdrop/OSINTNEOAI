@@ -1,0 +1,4949 @@
+{
+  "location": {
+    "lon": -117.988140256139,
+    "lat": 33.706442743403,
+    "address": "17631 Cameron Ln, Huntington Beach, CA 92647"
+  },
+  "parcels": [
+    {
+      "attributes": {
+        "FID": 51382,
+        "APN": "167-472-08",
+        "Acres": 0.7933987,
+        "DateAlter": "09/22",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 34560.4474095,
+        "Shape_STLe": 796.011285819,
+        "Shape__Area": 4651.83203125,
+        "Shape__Length": 291.7976613902494
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134374.9576152,
+              3989475.63737081
+            ],
+            [
+              -13134374.4218611,
+              3989428.57072507
+            ],
+            [
+              -13134473.2458649,
+              3989427.79776314
+            ],
+            [
+              -13134473.7858606,
+              3989474.86433681
+            ],
+            [
+              -13134374.9576152,
+              3989475.63737081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 51383,
+        "APN": "167-472-07",
+        "Acres": 0.79319369,
+        "DateAlter": "09/22",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 34551.5173229,
+        "Shape_STLe": 795.729998947,
+        "Shape__Area": 4650.6640625,
+        "Shape__Length": 291.69588581453206
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134423.0756189,
+              3989522.33211669
+            ],
+            [
+              -13134375.4933736,
+              3989522.70420471
+            ],
+            [
+              -13134374.9576152,
+              3989475.63737081
+            ],
+            [
+              -13134473.7858606,
+              3989474.86433681
+            ],
+            [
+              -13134474.0446531,
+              3989497.56282501
+            ],
+            [
+              -13134474.2153203,
+              3989521.93203159
+            ],
+            [
+              -13134423.0756189,
+              3989522.33211669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 51381,
+        "APN": "167-472-09",
+        "Acres": 0.7933686,
+        "DateAlter": "09/22",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 34559.13603,
+        "Shape_STLe": 795.990789206,
+        "Shape__Area": 4651.609375,
+        "Shape__Length": 291.78898497416515
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134374.4218611,
+              3989428.57072507
+            ],
+            [
+              -13134373.8861114,
+              3989381.50426748
+            ],
+            [
+              -13134472.7060566,
+              3989380.73137457
+            ],
+            [
+              -13134473.2458649,
+              3989427.79776314
+            ],
+            [
+              -13134374.4218611,
+              3989428.57072507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17121,
+        "APN": "167-471-09",
+        "Acres": 0.80309012,
+        "DateAlter": "08/99",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 34982.605453,
+        "Shape_STLe": 845.158922188,
+        "Shape__Area": 4708.65234375,
+        "Shape__Length": 309.7358793789657
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134243.3509754,
+              3989476.75173318
+            ],
+            [
+              -13134242.8702342,
+              3989435.20017948
+            ],
+            [
+              -13134356.1837528,
+              3989434.23938466
+            ],
+            [
+              -13134356.6564803,
+              3989475.79107122
+            ],
+            [
+              -13134243.3509754,
+              3989476.75173318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17120,
+        "APN": "167-471-08",
+        "Acres": 0.45481746,
+        "DateAlter": "08/99",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 19811.849422,
+        "Shape_STLe": 747.120618697,
+        "Shape__Area": 2666.6875,
+        "Shape__Length": 273.6848033926958
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134243.6233523,
+              3989500.28541994
+            ],
+            [
+              -13134243.3509754,
+              3989476.75173318
+            ],
+            [
+              -13134356.6564803,
+              3989475.79107122
+            ],
+            [
+              -13134356.924322,
+              3989499.32446538
+            ],
+            [
+              -13134243.6233523,
+              3989500.28541994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17122,
+        "APN": "167-471-10",
+        "Acres": 1.01982417,
+        "DateAlter": "08/99",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 44423.5424685,
+        "Shape_STLe": 925.211388684,
+        "Shape__Area": 5979.35546875,
+        "Shape__Length": 339.1382190629616
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134242.8702342,
+              3989435.20017948
+            ],
+            [
+              -13134242.2622169,
+              3989382.61781199
+            ],
+            [
+              -13134355.5858378,
+              3989381.65684968
+            ],
+            [
+              -13134356.1215198,
+              3989428.7236764
+            ],
+            [
+              -13134359.781762,
+              3989428.69253387
+            ],
+            [
+              -13134359.8443627,
+              3989434.20823596
+            ],
+            [
+              -13134356.1837528,
+              3989434.23938466
+            ],
+            [
+              -13134242.8702342,
+              3989435.20017948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17119,
+        "APN": "167-471-07",
+        "Acres": 0.45515807,
+        "DateAlter": "08/99",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_STAr": 19826.684473,
+        "Shape_STLe": 747.196615025,
+        "Shape__Area": 2668.69140625,
+        "Shape__Length": 273.7133442407382
+      },
+      "geometry": {
+        "rings": [
+          [
+            [
+              -13134243.8956691,
+              3989523.83754407
+            ],
+            [
+              -13134243.879563,
+              3989522.44684636
+            ],
+            [
+              -13134243.6233523,
+              3989500.28541994
+            ],
+            [
+              -13134356.924322,
+              3989499.32446538
+            ],
+            [
+              -13134357.192476,
+              3989522.87665846
+            ],
+            [
+              -13134243.8956691,
+              3989523.83754407
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "streets": [
+    {
+      "attributes": {
+        "FID": 9059,
+        "GISType": "PUBLIC",
+        "Miles": 0.01754569,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 18973,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17622,
+        "LeftMax": 17622,
+        "RightMin": 17631,
+        "RightMax": 17631,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 92.6412695563,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134367.5041674,
+              3989463.97115095
+            ],
+            [
+              -13134367.1164603,
+              3989429.90614804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9051,
+        "GISType": "PUBLIC",
+        "Miles": 0.04147481,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 18972,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17592,
+        "LeftMax": 17616,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 218.987003872,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134368.4204442,
+              3989544.49497663
+            ],
+            [
+              -13134367.5041674,
+              3989463.97115095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9068,
+        "GISType": "PUBLIC",
+        "Miles": 0.09450962,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 18974,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17676,
+        "LeftMax": 17762,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 499.01084135,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134367.1164603,
+              3989429.90614804
+            ],
+            [
+              -13134365.0283237,
+              3989246.41720186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9044,
+        "GISType": "PUBLIC",
+        "Miles": 0.01415616,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 18971,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17572,
+        "LeftMax": 17580,
+        "RightMin": 17555,
+        "RightMax": 17555,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 74.7445253146,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134368.7331878,
+              3989571.97945121
+            ],
+            [
+              -13134368.4204442,
+              3989544.49497663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9772,
+        "GISType": "PUBLIC",
+        "Miles": 0.03350896,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 4618,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17614,
+        "LeftMax": 17670,
+        "RightMin": 17557,
+        "RightMax": 17659,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 176.927322252,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134484.8344387,
+              3989474.34608568
+            ],
+            [
+              -13134484.0482251,
+              3989409.28893629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9239,
+        "GISType": "PUBLIC",
+        "Miles": 0.02731482,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Speer",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Speer  Dr",
+        "StreetID": 2231,
+        "SlurryYr": 2001,
+        "SegmentID": 18926,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 144.222270247,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134537.6216768,
+              3989473.8927301
+            ],
+            [
+              -13134484.8344387,
+              3989474.34608568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9767,
+        "GISType": "PUBLIC",
+        "Miles": 0.11341371,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 18954,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17522,
+        "LeftMax": 17612,
+        "RightMin": 17501,
+        "RightMax": 17555,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 598.824393298,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134487.3298174,
+              3989694.54173384
+            ],
+            [
+              -13134484.8349791,
+              3989474.38965912
+            ],
+            [
+              -13134484.8344387,
+              3989474.34608568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9783,
+        "GISType": "PUBLIC",
+        "Miles": 0.02906412,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 18955,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17672,
+        "LeftMax": 17672,
+        "RightMin": 17661,
+        "RightMax": 17671,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 153.458580605,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134484.0482251,
+              3989409.28893629
+            ],
+            [
+              -13134483.3663124,
+              3989352.86166332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9034,
+        "GISType": "PUBLIC",
+        "Miles": 0.04565981,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 18970,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17532,
+        "LeftMax": 17568,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 241.083805733,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134369.7420274,
+              3989660.62934631
+            ],
+            [
+              -13134368.7331878,
+              3989571.97945121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9370,
+        "GISType": "PUBLIC",
+        "Miles": 0.0500326,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Liberty",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Liberty  Dr",
+        "StreetID": 1324,
+        "SlurryYr": 2001,
+        "SegmentID": 18932,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 264.172160852,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134580.0559289,
+              3989352.04999478
+            ],
+            [
+              -13134483.3663124,
+              3989352.86166332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1874,
+        "GISType": "PUBLIC",
+        "Miles": 0.06253142,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 4619,
+        "DateCaptur": 1999,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17682,
+        "LeftMax": 17732,
+        "RightMin": 17685,
+        "RightMax": 17741,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 330.165905124,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134483.3663124,
+              3989352.86166332
+            ],
+            [
+              -13134481.8995597,
+              3989231.45938296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9226,
+        "GISType": "PUBLIC",
+        "Miles": 0.12029157,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Speer",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Speer  Dr",
+        "StreetID": 2231,
+        "SlurryYr": 2001,
+        "SegmentID": 8210,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 7842,
+        "RightMax": 7942,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 635.139513622,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134770.0910033,
+              3989471.89360015
+            ],
+            [
+              -13134537.6216768,
+              3989473.8927301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9087,
+        "GISType": "PRIVATE",
+        "Miles": 0.11872348,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Sergio",
+        "StSuffix": "Cir",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Sergio  Cir",
+        "StreetID": 2123,
+        "SlurryYr": 0,
+        "SegmentID": 18976,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17652,
+        "LeftMax": 17722,
+        "RightMin": 17641,
+        "RightMax": 17721,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 626.860023565,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134202.2635636,
+              3989456.86894073
+            ],
+            [
+              -13134200.0635851,
+              3989324.17341351
+            ],
+            [
+              -13134224.3098942,
+              3989323.76764874
+            ],
+            [
+              -13134222.5740118,
+              3989250.34998999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9179,
+        "GISType": "PUBLIC",
+        "Miles": 0.02760097,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Michael",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Michael  Dr",
+        "StreetID": 1501,
+        "SlurryYr": 2003,
+        "SegmentID": 8186,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8121,
+        "LeftMax": 8171,
+        "RightMin": 8122,
+        "RightMax": 8172,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 145.733148628,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134192.6344864,
+              3989522.8720655
+            ],
+            [
+              -13134139.2938876,
+              3989523.31397492
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9075,
+        "GISType": "PUBLIC",
+        "Miles": 0.00719242,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 18975,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 37.9760213984,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134365.0283237,
+              3989246.41720186
+            ],
+            [
+              -13134364.8694664,
+              3989232.45333286
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9025,
+        "GISType": "PUBLIC",
+        "Miles": 0.02975732,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Cameron",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Cameron  Ln",
+        "StreetID": 377,
+        "SlurryYr": 2003,
+        "SegmentID": 8180,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 157.118655484,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134370.3994392,
+              3989718.40443871
+            ],
+            [
+              -13134369.7420274,
+              3989660.62934631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9918,
+        "GISType": "PUBLIC",
+        "Miles": 0.02560399,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 18962,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8041,
+        "LeftMax": 8041,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 135.189069353,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134414.3494501,
+              3989232.03330382
+            ],
+            [
+              -13134364.8694664,
+              3989232.45333286
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9926,
+        "GISType": "PUBLIC",
+        "Miles": 0.03076723,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 8178,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 162.450989626,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134364.8694664,
+              3989232.45333286
+            ],
+            [
+              -13134305.4114575,
+              3989232.95783613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9902,
+        "GISType": "PUBLIC",
+        "Miles": 0.03495459,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 8175,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 184.560234625,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134481.8995597,
+              3989231.45938296
+            ],
+            [
+              -13134414.3494501,
+              3989232.03330382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9355,
+        "GISType": "PUBLIC",
+        "Miles": 0.20196893,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Liberty",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Liberty  Dr",
+        "StreetID": 1324,
+        "SlurryYr": 2001,
+        "SegmentID": 8208,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 7741,
+        "LeftMax": 7915,
+        "RightMin": 7742,
+        "RightMax": 7922,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 1066.39598135,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134970.3672397,
+              3989348.76532698
+            ],
+            [
+              -13134580.0559289,
+              3989352.04999478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1620,
+        "GISType": "PRIVATE",
+        "Miles": 0.01198894,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 9442,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 63.3016031096,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134595.6830914,
+              3989517.95737575
+            ],
+            [
+              -13134618.8523954,
+              3989517.75861998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9933,
+        "GISType": "PUBLIC",
+        "Miles": 0.03274959,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 18963,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8101,
+        "LeftMax": 8111,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 172.917838828,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134305.4114575,
+              3989232.95783613
+            ],
+            [
+              -13134242.1225168,
+              3989233.49471004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9427,
+        "GISType": "PUBLIC",
+        "Miles": 0.04258213,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2001,
+        "SegmentID": 18934,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 224.83366088,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134564.1899909,
+              3989230.76262268
+            ],
+            [
+              -13134481.9758731,
+              3989231.45865572
+            ],
+            [
+              -13134481.8995597,
+              3989231.45938296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1270,
+        "GISType": "PUBLIC",
+        "Miles": 0.08096847,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 4620,
+        "DateCaptur": 1999,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17742,
+        "LeftMax": 17822,
+        "RightMin": 17751,
+        "RightMax": 17811,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 427.513526179,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134481.8995597,
+              3989231.45938296
+            ],
+            [
+              -13134481.8992146,
+              3989231.42757601
+            ],
+            [
+              -13134480.3877537,
+              3989074.25991859
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9160,
+        "GISType": "PUBLIC",
+        "Miles": 0.02795941,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Opal",
+        "StSuffix": "Cir",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Opal  Cir",
+        "StreetID": 1686,
+        "SlurryYr": 2003,
+        "SegmentID": 8200,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8121,
+        "LeftMax": 8171,
+        "RightMin": 8122,
+        "RightMax": 8172,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 147.62571626,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134193.6935905,
+              3989614.80013283
+            ],
+            [
+              -13134139.6598563,
+              3989615.24775429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1603,
+        "GISType": "PRIVATE",
+        "Miles": 0.07668447,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 5265,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 404.894006839,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134620.5187386,
+              3989666.64383629
+            ],
+            [
+              -13134618.8523954,
+              3989517.75861998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1611,
+        "GISType": "PRIVATE",
+        "Miles": 0.03132442,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 5264,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 165.392989309,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134618.8523954,
+              3989517.75861998
+            ],
+            [
+              -13134679.38862,
+              3989517.23884125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9187,
+        "GISType": "PUBLIC",
+        "Miles": 0.00833798,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Michael",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Michael  Dr",
+        "StreetID": 1501,
+        "SlurryYr": 2003,
+        "SegmentID": 18981,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 44.0245548416,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134139.2938876,
+              3989523.31397492
+            ],
+            [
+              -13134123.1802153,
+              3989523.44744522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1870,
+        "GISType": "PUBLIC",
+        "Miles": 0.06152575,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Alley",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Alley",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Alley",
+        "StreetID": 43,
+        "SlurryYr": 2003,
+        "SegmentID": 8201,
+        "DateCaptur": 1999,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 324.855979691,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134243.7239876,
+              3989664.0315358
+            ],
+            [
+              -13134124.8202054,
+              3989665.0166803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9105,
+        "GISType": "PRIVATE",
+        "Miles": 0.00859633,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Sergio",
+        "StSuffix": "Cir",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Sergio  Cir",
+        "StreetID": 2123,
+        "SlurryYr": 0,
+        "SegmentID": 6678,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 45.3886421944,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134222.5740118,
+              3989250.34998999
+            ],
+            [
+              -13134222.1794691,
+              3989233.66409736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9146,
+        "GISType": "PUBLIC",
+        "Miles": 0.09889599,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 18978,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17602,
+        "LeftMax": 17710,
+        "RightMin": 17631,
+        "RightMax": 17711,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 522.170828816,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134122.6199806,
+              3989474.65445822
+            ],
+            [
+              -13134120.4156074,
+              3989282.64902363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9137,
+        "GISType": "PUBLIC",
+        "Miles": 0.02421215,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 8181,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 127.840170308,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134123.1597872,
+              3989521.66255326
+            ],
+            [
+              -13134122.6199806,
+              3989474.65445822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9938,
+        "GISType": "PUBLIC",
+        "Miles": 0.01031976,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 18964,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 54.4883339542,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134242.1225168,
+              3989233.49471004
+            ],
+            [
+              -13134222.6022141,
+              3989233.6601484
+            ],
+            [
+              -13134222.1794691,
+              3989233.66409736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9755,
+        "GISType": "PUBLIC",
+        "Miles": 0.01180347,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 4617,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 62.3223739556,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134487.5895166,
+              3989717.45873152
+            ],
+            [
+              -13134487.5894006,
+              3989717.45174541
+            ],
+            [
+              -13134487.3298174,
+              3989694.54173384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9197,
+        "GISType": "PUBLIC",
+        "Miles": 0.00781875,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Michael",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Michael  Dr",
+        "StreetID": 1501,
+        "SlurryYr": 2003,
+        "SegmentID": 8187,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 41.2830135104,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134123.1597872,
+              3989521.66255326
+            ],
+            [
+              -13134108.0495441,
+              3989521.78528614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1629,
+        "GISType": "PUBLIC",
+        "Miles": 0.00091933,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 3659,
+        "DateCaptur": 1999,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 4.85406437947,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134123.1802153,
+              3989523.44744522
+            ],
+            [
+              -13134123.1597872,
+              3989521.66255326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1716,
+        "GISType": "PUBLIC",
+        "Miles": 0.06063862,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 3744,
+        "DateCaptur": 1999,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8001,
+        "LeftMax": 8053,
+        "RightMin": 8000,
+        "RightMax": 8062,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 320.17195675,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134487.5895166,
+              3989717.45873152
+            ],
+            [
+              -13134487.5466905,
+              3989717.45908146
+            ],
+            [
+              -13134370.3994392,
+              3989718.40443871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9129,
+        "GISType": "PUBLIC",
+        "Miles": 0.02351904,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 18977,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 124.180550253,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134123.7098046,
+              3989569.10998746
+            ],
+            [
+              -13134123.1802153,
+              3989523.44744522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9052,
+        "GISType": "PUBLIC",
+        "Miles": 0.01698755,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 3745,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8055,
+        "LeftMax": 8069,
+        "RightMin": 8064,
+        "RightMax": 8080,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 89.694279472,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134370.3994392,
+              3989718.40443871
+            ],
+            [
+              -13134337.5693531,
+              3989718.67216013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9946,
+        "GISType": "PUBLIC",
+        "Miles": 0.02193061,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 8179,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 115.793656628,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134222.1794691,
+              3989233.66409736
+            ],
+            [
+              -13134179.7986217,
+              3989234.05885523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9061,
+        "GISType": "PUBLIC",
+        "Miles": 0.02176007,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 18915,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8071,
+        "LeftMax": 8101,
+        "RightMin": 8082,
+        "RightMax": 8106,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 114.893205239,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134337.5693531,
+              3989718.67216013
+            ],
+            [
+              -13134295.5159001,
+              3989719.01476939
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9073,
+        "GISType": "PUBLIC",
+        "Miles": 0.0152497,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 18916,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8103,
+        "LeftMax": 8109,
+        "RightMin": 8108,
+        "RightMax": 8110,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 80.5184436791,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134295.5159001,
+              3989719.01476939
+            ],
+            [
+              -13134266.0443695,
+              3989719.2549287
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9204,
+        "GISType": "PUBLIC",
+        "Miles": 0.09104851,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Michael",
+        "StSuffix": "Dr",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Michael  Dr",
+        "StreetID": 1501,
+        "SlurryYr": 2003,
+        "SegmentID": 18982,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8191,
+        "LeftMax": 8261,
+        "RightMin": 8192,
+        "RightMax": 8262,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 480.73616144,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134108.0495441,
+              3989521.78528614
+            ],
+            [
+              -13134016.6174009,
+              3989522.52734876
+            ],
+            [
+              -13134014.7855023,
+              3989522.52487388
+            ],
+            [
+              -13134011.6826408,
+              3989522.65876346
+            ],
+            [
+              -13134008.5925715,
+              3989522.96824007
+            ],
+            [
+              -13134005.5248098,
+              3989523.45314467
+            ],
+            [
+              -13134002.4888343,
+              3989524.11111213
+            ],
+            [
+              -13134000.7733712,
+              3989524.55207752
+            ],
+            [
+              -13133997.7337786,
+              3989525.19061159
+            ],
+            [
+              -13133994.6627531,
+              3989525.6553397
+            ],
+            [
+              -13133991.5705239,
+              3989525.94498748
+            ],
+            [
+              -13133988.4669542,
+              3989526.05828664
+            ],
+            [
+              -13133932.3931822,
+              3989526.92999929
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9122,
+        "GISType": "PUBLIC",
+        "Miles": 0.02382946,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 8182,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17550,
+        "LeftMax": 17578,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 125.819569767,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134124.2464575,
+              3989615.37539485
+            ],
+            [
+              -13134123.7098046,
+              3989569.10998746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9159,
+        "GISType": "PUBLIC",
+        "Miles": 0.01631793,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 18922,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17474,
+        "LeftMax": 17498,
+        "RightMin": 17493,
+        "RightMax": 17499,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 86.1587120102,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134487.9482568,
+              3989749.14083332
+            ],
+            [
+              -13134487.5895166,
+              3989717.45873152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9138,
+        "GISType": "PUBLIC",
+        "Miles": 0.06897991,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 18782,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 7913,
+        "LeftMax": 7999,
+        "RightMin": 7914,
+        "RightMax": 7998,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 364.213930618,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134620.8991088,
+              3989716.28509773
+            ],
+            [
+              -13134494.2619214,
+              3989717.40097254
+            ],
+            [
+              -13134487.5895166,
+              3989717.45873152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9415,
+        "GISType": "PUBLIC",
+        "Miles": 0.02763418,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2001,
+        "SegmentID": 18933,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 7922,
+        "RightMax": 7942,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 145.908471764,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134617.5933375,
+              3989230.31014808
+            ],
+            [
+              -13134564.1899909,
+              3989230.76262268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9170,
+        "GISType": "PUBLIC",
+        "Miles": 0.00797556,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Opal",
+        "StSuffix": "Cir",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Opal  Cir",
+        "StreetID": 1686,
+        "SlurryYr": 2003,
+        "SegmentID": 18980,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 42.1109879515,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134139.6598563,
+              3989615.24775429
+            ],
+            [
+              -13134124.2464575,
+              3989615.37539485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9081,
+        "GISType": "PUBLIC",
+        "Miles": 0.03494455,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 18917,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8111,
+        "LeftMax": 8131,
+        "RightMin": 8112,
+        "RightMax": 8132,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 184.50725233,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134266.0443695,
+              3989719.2549287
+            ],
+            [
+              -13134198.5106288,
+              3989719.80467056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9955,
+        "GISType": "PUBLIC",
+        "Miles": 0.02564833,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 18965,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8161,
+        "LeftMax": 8171,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 135.42319218,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134179.7986217,
+              3989234.05885523
+            ],
+            [
+              -13134130.2332979,
+              3989234.52031423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9118,
+        "GISType": "PUBLIC",
+        "Miles": 0.01832864,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 8183,
+        "DateCaptur": 1999,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17542,
+        "LeftMax": 17542,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 96.7752405112,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134124.656822,
+              3989650.96099604
+            ],
+            [
+              -13134124.2464575,
+              3989615.37539485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1593,
+        "GISType": "PRIVATE",
+        "Miles": 0.03215625,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 5262,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 169.785023003,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134679.38862,
+              3989517.23884125
+            ],
+            [
+              -13134741.5321384,
+              3989516.67651034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1586,
+        "GISType": "PRIVATE",
+        "Miles": 0.07667372,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 5261,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 404.837286367,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134680.63977,
+              3989666.10729787
+            ],
+            [
+              -13134679.38862,
+              3989517.23884125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1855,
+        "GISType": "PRIVATE",
+        "Miles": 0.01104673,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 5255,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 58.3267747265,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134599.1700866,
+              3989666.83449853
+            ],
+            [
+              -13134620.5187386,
+              3989666.64383629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9157,
+        "GISType": "PUBLIC",
+        "Miles": 0.02474019,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 18979,
+        "DateCaptur": 0,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 130.628208004,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134120.4156074,
+              3989282.64902363
+            ],
+            [
+              -13134119.8641417,
+              3989234.61671573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9148,
+        "GISType": "PUBLIC",
+        "Miles": 0.10872842,
+        "SpeedLimit": 45,
+        "StPrefix": " ",
+        "StNm": "Beach",
+        "StSuffix": "Blvd",
+        "LaneNo": 8,
+        "OCTAClass": "Smartstreet",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Beach  Blvd",
+        "StreetID": 191,
+        "SlurryYr": 0,
+        "SegmentID": 4616,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17362,
+        "LeftMax": 17472,
+        "RightMin": 17401,
+        "RightMax": 17491,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 574.086064981,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134490.3393855,
+              3989960.24473127
+            ],
+            [
+              -13134490.339358,
+              3989960.24307662
+            ],
+            [
+              -13134488.3849068,
+              3989787.68696608
+            ],
+            [
+              -13134487.9482568,
+              3989749.14083332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1849,
+        "GISType": "PRIVATE",
+        "Miles": 0.03110928,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Travelway",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Travelway",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Travelway",
+        "StreetID": 2425,
+        "SlurryYr": 0,
+        "SegmentID": 5252,
+        "DateCaptur": 1999,
+        "DateAlter": 2004,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 164.257010788,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134620.5187386,
+              3989666.64383629
+            ],
+            [
+              -13134680.63977,
+              3989666.10729787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1732,
+        "GISType": "PUBLIC",
+        "Miles": 0.03779695,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 3746,
+        "DateCaptur": 1999,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8151,
+        "LeftMax": 8171,
+        "RightMin": 8152,
+        "RightMax": 8172,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 199.567920681,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134198.5106288,
+              3989719.80467056
+            ],
+            [
+              -13134125.4644789,
+              3989720.41551762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9272,
+        "GISType": "PUBLIC",
+        "Miles": 0.01541516,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Marken",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Marken  Ln",
+        "StreetID": 1447,
+        "SlurryYr": 2001,
+        "SegmentID": 18792,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 81.3920529106,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134198.8552646,
+              3989749.73392397
+            ],
+            [
+              -13134198.5106288,
+              3989719.80467056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1877,
+        "GISType": "PUBLIC",
+        "Miles": 0.00723948,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 8185,
+        "DateCaptur": 1999,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 38.2244722135,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134124.8202054,
+              3989665.0166803
+            ],
+            [
+              -13134124.656822,
+              3989650.96099604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1883,
+        "GISType": "PUBLIC",
+        "Miles": 0.05203454,
+        "SpeedLimit": 15,
+        "StPrefix": " ",
+        "StNm": "Alley",
+        "StSuffix": " ",
+        "LaneNo": 0,
+        "OCTAClass": "Alley",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Alley",
+        "StreetID": 43,
+        "SlurryYr": 2003,
+        "SegmentID": 8202,
+        "DateCaptur": 1999,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 274.742386874,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134124.656822,
+              3989650.96099604
+            ],
+            [
+              -13134024.0954873,
+              3989651.76405066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9407,
+        "GISType": "PUBLIC",
+        "Miles": 0.17986484,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2001,
+        "SegmentID": 8174,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 7741,
+        "LeftMax": 7911,
+        "RightMin": 7742,
+        "RightMax": 7912,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 949.686369807,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134965.1839568,
+              3989227.35948906
+            ],
+            [
+              -13134617.5933375,
+              3989230.31014808
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9961,
+        "GISType": "PUBLIC",
+        "Miles": 0.00536567,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 18966,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 28.3307746144,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134130.2332979,
+              3989234.52031423
+            ],
+            [
+              -13134119.8641417,
+              3989234.61671573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 1862,
+        "GISType": "PUBLIC",
+        "Miles": 0.02853349,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Van Buren",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Van Buren  Ln",
+        "StreetID": 2484,
+        "SlurryYr": 2003,
+        "SegmentID": 8184,
+        "DateCaptur": 1999,
+        "DateAlter": 2006,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 150.656856893,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134125.4644789,
+              3989720.41551762
+            ],
+            [
+              -13134124.8202054,
+              3989665.0166803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9966,
+        "GISType": "PUBLIC",
+        "Miles": 0.00631205,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 8176,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 0,
+        "LeftMax": 0,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 33.3276678339,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134119.8641417,
+              3989234.61671573
+            ],
+            [
+              -13134107.6660017,
+              3989234.71813925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9278,
+        "GISType": "PUBLIC",
+        "Miles": 0.08640954,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Marken",
+        "StSuffix": "Ln",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Marken  Ln",
+        "StreetID": 1447,
+        "SlurryYr": 2001,
+        "SegmentID": 18793,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 17382,
+        "LeftMax": 17472,
+        "RightMin": 17381,
+        "RightMax": 17471,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 456.242408831,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134200.786665,
+              3989917.50349466
+            ],
+            [
+              -13134198.8552646,
+              3989749.73392397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9969,
+        "GISType": "PUBLIC",
+        "Miles": 0.14880955,
+        "SpeedLimit": 25,
+        "StPrefix": " ",
+        "StNm": "Newman",
+        "StSuffix": "Ave",
+        "LaneNo": 0,
+        "OCTAClass": "Residential",
+        "MinAvgTraf": 0,
+        "MaxAvgTraf": 0,
+        "Label": "Newman  Ave",
+        "StreetID": 1606,
+        "SlurryYr": 2003,
+        "SegmentID": 18967,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 8201,
+        "LeftMax": 8321,
+        "RightMin": 0,
+        "RightMax": 0,
+        "MajorSt": " ",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 785.714446803,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134107.6660017,
+              3989234.71813925
+            ],
+            [
+              -13133999.1436635,
+              3989235.61959077
+            ],
+            [
+              -13133820.0896327,
+              3989237.13145523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9162,
+        "GISType": "PUBLIC",
+        "Miles": 0.01318639,
+        "SpeedLimit": 40,
+        "StPrefix": " ",
+        "StNm": "Slater",
+        "StSuffix": "Ave",
+        "LaneNo": 4,
+        "OCTAClass": "Secondary",
+        "MinAvgTraf": 10000,
+        "MaxAvgTraf": 20000,
+        "Label": "Slater  Ave",
+        "StreetID": 2205,
+        "SlurryYr": 0,
+        "SegmentID": 18783,
+        "DateCaptur": 0,
+        "DateAlter": 1999,
+        "InCity": "T",
+        "City": "Huntington Beach",
+        "LeftMin": 7911,
+        "LeftMax": 7911,
+        "RightMin": 7912,
+        "RightMax": 7912,
+        "MajorSt": "Y",
+        "isCoded": 1,
+        "ZIPL": "92647",
+        "ZIPR": "92647",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_len": 69.6241803183,
+        "CreationDate": 1380925696987,
+        "Creator": "danrich",
+        "EditDate": 1380925696987,
+        "Editor": "danrich"
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -13134646.382948,
+              3989716.06034659
+            ],
+            [
+              -13134620.8991088,
+              3989716.28509773
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "zoning_sp14": [
+    {
+      "attributes": {
+        "FID": 771,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{CF606489-8C6D-46E5-8A7E-87EE8BE14DB2}",
+        "Shape__Area": 8.234375,
+        "Shape__Length": 25.3291964266153
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2601,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{2F52E3D6-5FEB-49FD-8E1B-98E849F7DF59}",
+        "Shape__Area": 55092.23046875,
+        "Shape__Length": 1061.4428099805625
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2602,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{52F406D5-2212-485E-A658-C45E8ED8A7CD}",
+        "Shape__Area": 2992.83984375,
+        "Shape__Length": 224.08493562451952
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2603,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{7EABEA09-9962-4B3B-ACDE-AB43B4479A97}",
+        "Shape__Area": 4309.64453125,
+        "Shape__Length": 277.142500045784
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2604,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{0AB815D6-DA53-45A0-A515-33FB2AD0522B}",
+        "Shape__Area": 4521.30078125,
+        "Shape__Length": 286.05614361230056
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2605,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{FA4F8D8B-9A4A-444D-A4A5-115B5B9B76CA}",
+        "Shape__Area": 14316.33984375,
+        "Shape__Length": 607.0366714177065
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2606,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{6424A8C4-0CBF-4FC0-9B7C-98F7F92135CB}",
+        "Shape__Area": 21320.62109375,
+        "Shape__Length": 590.1879201366081
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2607,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{93113E55-18E4-41C9-AA81-6FD723C7A48E}",
+        "Shape__Area": 3017.93359375,
+        "Shape__Length": 216.45754234334987
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2608,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{4547CEBA-08BD-4AB0-A3B7-C54C9E1933A8}",
+        "Shape__Area": 48680.45703125,
+        "Shape__Length": 1185.482589260559
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2609,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{6DA8A6CB-171C-4E7D-AC60-150AEB8A57B5}",
+        "Shape__Area": 39861.49609375,
+        "Shape__Length": 1108.6900660066638
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2610,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{26246895-9721-434F-BEB6-96411B707402}",
+        "Shape__Area": 158126.890625,
+        "Shape__Length": 2292.7182096810993
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2611,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{23127F38-7FA7-4076-9F64-0292AB059B2B}",
+        "Shape__Area": 13293.328125,
+        "Shape__Length": 713.1196679214605
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2612,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{576A2F7C-C72C-471C-BDCB-C5C93EAD24E4}",
+        "Shape__Area": 4707.484375,
+        "Shape__Length": 306.1184571619002
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2613,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{578EC7CD-C9C1-4111-BCFF-F73A3E178AAD}",
+        "Shape__Area": 5595.83203125,
+        "Shape__Length": 304.158442074963
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2614,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{FF6C4906-75D5-4292-B4BA-EA041B66F12E}",
+        "Shape__Area": 131248.62109375,
+        "Shape__Length": 2219.460394686989
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2615,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{1DABFA13-7693-460B-8122-2CCAD9A0B923}",
+        "Shape__Area": 71214.15234375,
+        "Shape__Length": 1319.6754271928075
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2616,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{B5AA77C8-1091-476B-AFE3-A7C253BB46EA}",
+        "Shape__Area": 30377.07421875,
+        "Shape__Length": 843.1188942814533
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2617,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{C02B7B3A-CDB6-4F03-A064-D3133F136426}",
+        "Shape__Area": 28098.69921875,
+        "Shape__Length": 756.0555482788029
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2618,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{5210C03B-438D-4131-8DD9-A24AB4E5632C}",
+        "Shape__Area": 16771.375,
+        "Shape__Length": 579.9255251623123
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2619,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{196D56D8-71EA-4F33-8710-7DFCC316B162}",
+        "Shape__Area": 87393.62109375,
+        "Shape__Length": 1371.9546008656312
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2620,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{DC983612-4CD4-4443-96E3-E30455B6DA76}",
+        "Shape__Area": 141045.921875,
+        "Shape__Length": 2363.6000587260114
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2621,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{38C0125D-8238-4B19-BBEE-58014AF7A24A}",
+        "Shape__Area": 49906.53515625,
+        "Shape__Length": 1149.3246334053636
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2622,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{F2655A93-8E29-4D1C-9232-F334E5C5F058}",
+        "Shape__Area": 74667.81640625,
+        "Shape__Length": 1234.4735403795053
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2623,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{C2F27C2B-72B2-40D2-AAD4-8592997A4A53}",
+        "Shape__Area": 27082.6953125,
+        "Shape__Length": 888.8581455139067
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2624,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{820ED90D-2F6B-4FC5-A452-22916982CF6D}",
+        "Shape__Area": 68094.2890625,
+        "Shape__Length": 1331.4805526646978
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2625,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{0128A828-7C9B-4886-B78D-4C6305B36DE4}",
+        "Shape__Area": 105871.81640625,
+        "Shape__Length": 1388.8766783034573
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2626,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{161C586F-0C45-4C0D-8487-025CD312D6FB}",
+        "Shape__Area": 81234.16796875,
+        "Shape__Length": 1327.4529959225604
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2627,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{345FB539-CA92-49F1-BD09-EAAD689C511A}",
+        "Shape__Area": 23128.37890625,
+        "Shape__Length": 741.7973027998376
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2628,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{77A81361-C95D-45A6-B7AB-FA7C1E79BAF5}",
+        "Shape__Area": 80671.8203125,
+        "Shape__Length": 1159.8493192100862
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2629,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{38E61FF8-C7FD-4EED-A7BE-3D3BDFE83FE8}",
+        "Shape__Area": 7106.296875,
+        "Shape__Length": 388.72361454988885
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2630,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{72B94919-C186-44DC-AA07-396BD7B9DD44}",
+        "Shape__Area": 6063.90625,
+        "Shape__Length": 316.15831460612065
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2631,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{36A4D0EE-D286-4340-9509-1450A64D3E5A}",
+        "Shape__Area": 5945.2578125,
+        "Shape__Length": 312.9556037661465
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2632,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{5D6682B8-8CD2-4667-941A-EC3E4B160318}",
+        "Shape__Area": 44261.34375,
+        "Shape__Length": 1103.0832627784
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2633,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{C3959937-3666-4107-A715-DEF52BDA6B45}",
+        "Shape__Area": 14647.3984375,
+        "Shape__Length": 563.0289531390266
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2634,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{4A1950F9-286F-4F2B-9CD8-AE0BA9AC7443}",
+        "Shape__Area": 15844.26171875,
+        "Shape__Length": 571.3516500196365
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2635,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{829B6A67-AB60-4F9A-897B-E535926459EB}",
+        "Shape__Area": 61415.99609375,
+        "Shape__Length": 1482.414889382014
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2636,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{9D916A10-CE35-4BBA-8F7E-2492E92EF078}",
+        "Shape__Area": 31856.31640625,
+        "Shape__Length": 1085.0109310774953
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2637,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{B91EA751-BC40-4746-B37B-99F5D723C3F4}",
+        "Shape__Area": 3371.2421875,
+        "Shape__Length": 431.1477995850375
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2638,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{DF8835AF-BC71-4B54-A127-3DA787FFE9E6}",
+        "Shape__Area": 59113.59765625,
+        "Shape__Length": 1157.0550264923615
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2639,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{A08C206A-1475-4568-9B8D-4C8C1607ABD0}",
+        "Shape__Area": 9100.16796875,
+        "Shape__Length": 562.976020665999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2640,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{51F0D460-B4F1-4DCF-97EB-054DFE423F84}",
+        "Shape__Area": 13833.71875,
+        "Shape__Length": 554.7373741478368
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2641,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{C3EEFB48-AB7C-4BA3-B811-5473F031C717}",
+        "Shape__Area": 30200.76171875,
+        "Shape__Length": 885.9411623329133
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2642,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{57D29167-4541-4EC7-8708-4FF52F2FB884}",
+        "Shape__Area": 18367.64453125,
+        "Shape__Length": 702.8949188639435
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2643,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{417AC2D6-3024-4821-B86D-A4679731A2B2}",
+        "Shape__Area": 23948.03125,
+        "Shape__Length": 641.6786450708834
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2644,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{768728B3-09A6-4A58-BBAF-FB72A8B55CF3}",
+        "Shape__Area": 39073.40625,
+        "Shape__Length": 784.4543563284212
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2645,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{62FBB7BE-5935-4E58-86E8-1059873CB7CB}",
+        "Shape__Area": 28758.39453125,
+        "Shape__Length": 805.3839233111536
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2646,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{FEB15DD0-8ECF-4994-899A-6C98A723FAAC}",
+        "Shape__Area": 67550.07421875,
+        "Shape__Length": 1353.7148605991065
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2647,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{E0CFCB6C-0003-4D5A-A227-B26499EC2390}",
+        "Shape__Area": 1357.51171875,
+        "Shape__Length": 142.03658690998844
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2648,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{2FC23CDE-63E4-413D-A5AA-5E682936E3F7}",
+        "Shape__Area": 6044.01953125,
+        "Shape__Length": 354.8177395890335
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2649,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{1818DF4F-8A39-4CCC-B6C2-0A2B239BDD18}",
+        "Shape__Area": 7995.56640625,
+        "Shape__Length": 367.3759945105622
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2650,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{4474D44F-C92E-4E4C-BBBE-B4A47FAE8453}",
+        "Shape__Area": 13094.76171875,
+        "Shape__Length": 462.09657073624913
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2651,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{ACD2EE74-5DD5-470F-8D42-92CDB793E2C6}",
+        "Shape__Area": 29370.35546875,
+        "Shape__Length": 700.1954571038506
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2652,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{0E410805-213D-4A14-BAB8-C450BDCD12D0}",
+        "Shape__Area": 7842.3046875,
+        "Shape__Length": 388.8903823821808
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2653,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{D5D44382-8C1A-4904-B444-71B9D293FEE8}",
+        "Shape__Area": 9190.68359375,
+        "Shape__Length": 429.268629767761
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2654,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{C81DA3C7-84BC-4AF4-8A1C-F839B43EA173}",
+        "Shape__Area": 39462.22265625,
+        "Shape__Length": 977.1934693622612
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2655,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{75E8F3C6-672A-4984-ACB5-60A132497DD6}",
+        "Shape__Area": 19776.4921875,
+        "Shape__Length": 555.150173155698
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2656,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{5411FE3E-B435-4AFC-BD7C-00ECE10640BB}",
+        "Shape__Area": 61408.1015625,
+        "Shape__Length": 1035.478033043465
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2657,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{BB75C133-7037-4FDC-B589-F0F4B540C07F}",
+        "Shape__Area": 119695.21484375,
+        "Shape__Length": 1668.599585445366
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2658,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{6DB6893D-6474-4221-A543-06EAE8CA397C}",
+        "Shape__Area": 125635.1796875,
+        "Shape__Length": 1933.6897640030165
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2659,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{98215A0D-F13A-4300-9D03-7C849944E1B7}",
+        "Shape__Area": 84006.95703125,
+        "Shape__Length": 1156.273950090187
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2660,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{1B3949D8-6621-4520-8DD2-779E12ED185A}",
+        "Shape__Area": 11950.8671875,
+        "Shape__Length": 524.9661042265321
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2661,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{88C934A9-28EE-4065-A9F5-8ED9CC99E969}",
+        "Shape__Area": 32878.49609375,
+        "Shape__Length": 741.9073694763738
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2662,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{D875B983-E537-4525-890A-129104B6C75A}",
+        "Shape__Area": 107011.74609375,
+        "Shape__Length": 1390.2061130467519
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2663,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{5EF2DF5E-08F5-4FF8-A6FD-74A246A340D8}",
+        "Shape__Area": 60961.6875,
+        "Shape__Length": 1254.5207289820473
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2708,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{8FF8B991-2B08-4ADA-8B0A-388BF1FEF5D5}",
+        "Shape__Area": 21428.87890625,
+        "Shape__Length": 645.9082403032753
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2709,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{A986A847-4EE1-4421-9D0A-18B71DA5DF84}",
+        "Shape__Area": 10835.609375,
+        "Shape__Length": 424.8607820961806
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2712,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{A5A97C88-D451-4EBB-98EF-C7DFBC95F78A}",
+        "Shape__Area": 18092.640625,
+        "Shape__Length": 605.4161832914856
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2713,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{683AE8BC-9808-4E90-B7F5-72E4D7C1803E}",
+        "Shape__Area": 21412.69140625,
+        "Shape__Length": 662.8849369159786
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2714,
+        "Base": "SP14",
+        "ZoneType": "SP",
+        "Overlay": " ",
+        "GlobalID": "{952BDB8D-83A4-4229-9B94-9180D4542433}",
+        "Shape__Area": 3776.765625,
+        "Shape__Length": 257.43980168825476
+      }
+    }
+  ],
+  "flood_zones": [
+    {
+      "attributes": {
+        "FID": 133,
+        "FLD_ZONE": "X",
+        "ZONE_SUBTY": "AREA WITH REDUCED FLOOD RISK DUE TO LEVEE",
+        "STATIC_BFE": -9999,
+        "FloodZone": "X AREA WITH REDUCED FLOOD RISK DUE TO LEVEE",
+        "FloodEOC": "500 YR",
+        "Shape_STAr": 154271419.345,
+        "Shape_STLe": 130282.503109,
+        "Shape__Area": 20750853.55078125,
+        "Shape__Length": 47799.41559587747
+      }
+    }
+  ],
+  "fault_zones": [
+    {
+      "attributes": {
+        "FID": 2,
+        "Acres": 10850.11712841,
+        "SqMi": 16.95330801,
+        "GISZone": "5km zone from center",
+        "area": 472631100.227,
+        "len": 124228.169446
+      }
+    }
+  ],
+  "oil_wells": [
+    {
+      "attributes": {
+        "FID": 237,
+        "Oil": "-O1",
+        "created_us": " ",
+        "created_da": null,
+        "last_edite": " ",
+        "last_edi_1": null,
+        "Shape_area": 135163.954711,
+        "Shape_len": 1771.58856877,
+        "Shape__Area": 18191.63671875,
+        "Shape__Length": 650.4346133667343
+      }
+    }
+  ],
+  "cip_projects": [
+    {
+      "attributes": {
+        "FID": 12,
+        "FID_": 27,
+        "Order_": 89,
+        "Name": "C6 SC1 Channel Repairs  CC-1674",
+        "DescNeed": "Repair sections of channel that are failing due to soil surcharge behind the embankments",
+        "TotalCost": 329095,
+        "DPM": "Steven Folkes",
+        "PMContact": "steven.folkes@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1722470400000,
+        "ForComplet": "Sep-26",
+        "x": -117.9834887,
+        "y": 33.71095
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "FID_": 29,
+        "Order_": 91,
+        "Name": "Hartlund Lane Water Main Replacement CC-1735",
+        "DescNeed": "Replace existing ACP water mains with VCP water mains from Talbert Avenue to Le Conti Drive",
+        "TotalCost": 729770,
+        "DPM": "Joe Pinel",
+        "PMContact": "Joseph-pinel@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1782864000000,
+        "ForComplet": "Jan-27",
+        "x": -117.9829432,
+        "y": 33.69917
+      }
+    }
+  ],
+  "soils": [
+    {
+      "attributes": {
+        "FID": 70,
+        "Acres": 441.28629029,
+        "SoilClasNm": "Loamy Sand",
+        "SoilClass": 7,
+        "SoilType": 173,
+        "GISSymbol": 193,
+        "SqMi": 0.68950982,
+        "Shape_area": 19222430.8026,
+        "Shape_len": 61612.5487745
+      }
+    }
+  ]
+}

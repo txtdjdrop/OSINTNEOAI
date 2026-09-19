@@ -1,0 +1,710 @@
+{
+  "count": 47,
+  "features": [
+    {
+      "attributes": {
+        "FID": 1,
+        "Name": "G&M Oil",
+        "Project_De": "New 2,314 SF gas station with four fuel pump stations and 2,182 SF retail store on a 0.51 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/G&M-Oil-(14972-Springdale-St.).pdf",
+        "Address": "14972 Springdale St.",
+        "DevStatus": "Planned",
+        "Order_": 1
+      },
+      "geometry": {
+        "x": -13138370.620261569,
+        "y": 3994591.9275113917
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "Name": "Wave Pool",
+        "Project_De": "New 8,387 SF wave pool and deck, 606 SF of retail, a snack bar and surface parking on a 0.75 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Wave-Pool-.pdf",
+        "Address": "7461 Center Ave.",
+        "DevStatus": "Planned",
+        "Order_": 2
+      },
+      "geometry": {
+        "x": -13135520.441576159,
+        "y": 3993521.011453611
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "Name": "In-N-Out",
+        "Project_De": "3,885 SF In-N-Out drive thru restaurant with 608 SF outdoor seating on a 1.38 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/3-In-N-Out.pdf",
+        "Address": "7902 Edinger Ave.",
+        "DevStatus": "Planned",
+        "Order_": 3
+      },
+      "geometry": {
+        "x": -13134649.990329653,
+        "y": 3992546.4724315256
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "Name": "Cameron Condominiums",
+        "Project_De": "Tract 19154 - Subdivision of 0.91 acre site into 18 townhomes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Cameron-Condominiums.pdf",
+        "Address": "17532 Cameron Ln.",
+        "DevStatus": "Planned",
+        "Order_": 4
+      },
+      "geometry": {
+        "x": -13134330.667727271,
+        "y": 3989641.830019649
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "Name": "Holly Lane Triangle Townhomes",
+        "Project_De": "Tract 19118 - Subdivision of 2.11 acre site into 35 townhomes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Holly-Lane-Triangle-Townhomes.pdf",
+        "Address": "19070 Holly Ln.",
+        "DevStatus": "Planned",
+        "Order_": 5
+      },
+      "geometry": {
+        "x": -13135601.783552486,
+        "y": 3986728.4227457033
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "Name": "Jamboree Senior Housing",
+        "Project_De": "New 38,813 SF four-story residential senior housing with 53 units on a 0.78 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Jamboree-Senior-Housing-.pdf",
+        "Address": "18431 Beach Blvd.",
+        "DevStatus": "Planned",
+        "Order_": 6
+      },
+      "geometry": {
+        "x": -13134555.757437259,
+        "y": 3987890.7605522294
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "Name": "Olson Townhomes",
+        "Project_De": "Tract 19157 - Subdivision of 2.1 acre site into 34 two and three-story townhomes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Olson-Townhomes.pdf",
+        "Address": "8371 Talbert Ave",
+        "DevStatus": "Planned",
+        "Order_": 7
+      },
+      "geometry": {
+        "x": -13133631.712321553,
+        "y": 3988802.0690046577
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "Name": "Huntington Gateway",
+        "Project_De": "Phase 2 with 5 new buildings and a new public street on a 49.5 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Huntington-Gateway-(Phase-2).pdf",
+        "Address": "5301 Bolsa Ave.",
+        "DevStatus": "Under Construction",
+        "Order_": 8
+      },
+      "geometry": {
+        "x": -13139447.6807804,
+        "y": 3994915.9557638145
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9,
+        "Name": "Garfield Homes",
+        "Project_De": "Tract 18196 - Subdivision of 2.4 acre site into 10 single family homes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Garfield-homes.pdf",
+        "Address": "8341 Garfield Ave.",
+        "DevStatus": "Planned",
+        "Order_": 9
+      },
+      "geometry": {
+        "x": -13133755.035825402,
+        "y": 3986953.649732215
+      }
+    },
+    {
+      "attributes": {
+        "FID": 10,
+        "Name": "Gisler Subdivison",
+        "Project_De": "Tract 19136 - Subdivision of 14 acre site into 85 single family homes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Gisler-Subdivision-.pdf",
+        "Address": "21141 Strathmoor Ln.",
+        "DevStatus": "Planned",
+        "Order_": 10
+      },
+      "geometry": {
+        "x": -13131154.17425794,
+        "y": 3982595.508730807
+      }
+    },
+    {
+      "attributes": {
+        "FID": 11,
+        "Name": "Georgia Townhomes",
+        "Project_De": "Tract 18079 - Subdivision of 0.80 acre site into 18 townhomes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Georgia-Townhomes-.pdf",
+        "Address": "910 Georgia St.",
+        "DevStatus": "Planned",
+        "Order_": 11
+      },
+      "geometry": {
+        "x": -13134513.513937682,
+        "y": 3983964.422379771
+      }
+    },
+    {
+      "attributes": {
+        "FID": 12,
+        "Name": "The Shore Townhomes",
+        "Project_De": "Tract 18198 - Subdivision of 3.68 acre site into 48 three-story townhomes.",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/The-Shore-Townhomes.pdf",
+        "Address": "21673 Newland St.",
+        "DevStatus": "Planned",
+        "Order_": 12
+      },
+      "geometry": {
+        "x": -13133462.988128942,
+        "y": 3981568.346904809
+      }
+    },
+    {
+      "attributes": {
+        "FID": 13,
+        "Name": "602 Coffee House",
+        "Project_De": "New 1,300 SF of addition to a coffee shop with exterior remodel and outdoor dining on a 0.32 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/602-Coffee-House.pdf",
+        "Address": "602 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 13
+      },
+      "geometry": {
+        "x": -13136094.50272809,
+        "y": 3983066.4265056923
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "Name": "PCH Mixed Use",
+        "Project_De": "New 109,355 SF, four-story, mixed use building with 29 condominium units on a 0.59 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/PCH-Mixed-Use.pdf",
+        "Address": "620 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 14
+      },
+      "geometry": {
+        "x": -13136124.555128876,
+        "y": 3983087.6180951786
+      }
+    },
+    {
+      "attributes": {
+        "FID": 15,
+        "Name": "HB-Mixed Use",
+        "Project_De": "New 12,713 SF, three-story, mixed use building, with ground level retail, and upper level of resedential units on a 5,500 SF lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/HB-Mixed-Use.pdf",
+        "Address": "714 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 15
+      },
+      "geometry": {
+        "x": -13136194.9304932,
+        "y": 3983155.6684900434
+      }
+    },
+    {
+      "attributes": {
+        "FID": 16,
+        "Name": "Sunset Mixed Use",
+        "Project_De": "New 38,400 SF, four-story, mixed use building with 12 units, and commercial space on a 11,378 SF lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Sunset-Mixed-Use.pdf",
+        "Address": "818 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 16
+      },
+      "geometry": {
+        "x": -13136318.322165271,
+        "y": 3983263.8267387296
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17,
+        "Name": "Kelter 4-Plex",
+        "Project_De": "TPM 2019-164 - Subdivision of 7,926 SF lot into 4 three-story multi-family units",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Kelter-4-Plex.pdf",
+        "Address": "1620 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 17
+      },
+      "geometry": {
+        "x": -13137035.810021339,
+        "y": 3983898.9903346184
+      }
+    },
+    {
+      "attributes": {
+        "FID": 18,
+        "Name": "Utica Townhomes",
+        "Project_De": "TPM 2018-146 - Subdivision of 9,000 SF lot into 3 two-story townhomes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Utica-Townhomes.pdf",
+        "Address": "712 Utica Ave.",
+        "DevStatus": "Planned",
+        "Order_": 18
+      },
+      "geometry": {
+        "x": -13134612.75048088,
+        "y": 3985316.89146121
+      }
+    },
+    {
+      "attributes": {
+        "FID": 19,
+        "Name": "Seacliff Assisted Living",
+        "Project_De": "New 281,000 SF, three-story building with 226 guest rooms and a new 6.5 acre parking lot on a 11.29 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Seacliff-Assisted-Living.pdf",
+        "Address": "2120 Main St.",
+        "DevStatus": "Planned",
+        "Order_": 19
+      },
+      "geometry": {
+        "x": -13135799.158304758,
+        "y": 3985936.9964706446
+      }
+    },
+    {
+      "attributes": {
+        "FID": 20,
+        "Name": "Ralphs Commercial Center",
+        "Project_De": "New 44,724 SF of gas station with two 4,595 sf pad buildings for eating and drinking establishments on a 1.33 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Ralphs-Commercial-Center.pdf",
+        "Address": "19026 Goldenwest St.",
+        "DevStatus": "Planned",
+        "Order_": 20
+      },
+      "geometry": {
+        "x": -13136317.391656486,
+        "y": 3986726.861640758
+      }
+    },
+    {
+      "attributes": {
+        "FID": 21,
+        "Name": "18750 Delaware Project",
+        "Project_De": "New 545,661 SF, five-story apartment building, with 335 units and a 5-story parking structure on 4 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/18750-Delaware-Project.pdf",
+        "Address": "18750 Delaware St.",
+        "DevStatus": "Planned",
+        "Order_": 21
+      },
+      "geometry": {
+        "x": -13134875.536601214,
+        "y": 3987229.0438897754
+      }
+    },
+    {
+      "attributes": {
+        "FID": 22,
+        "Name": "OC Landfill Site",
+        "Project_De": "Temporary vehicle storage",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/OC-Landfill-Site.pdf",
+        "Address": "18131 Gothard St.",
+        "DevStatus": "Planned",
+        "Order_": 22
+      },
+      "geometry": {
+        "x": -13135799.752751369,
+        "y": 3988370.7256393842
+      }
+    },
+    {
+      "attributes": {
+        "FID": 23,
+        "Name": "Windward Townhomes",
+        "Project_De": "Tract 18060 - Subdivision of 5 acre site into 36 residential townhomes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Windward-Townhomes.pdf",
+        "Address": "17202 Bolsa Chica St",
+        "DevStatus": "Planned",
+        "Order_": 23
+      },
+      "geometry": {
+        "x": -13140208.584152285,
+        "y": 3990059.9258901603
+      }
+    },
+    {
+      "attributes": {
+        "FID": 24,
+        "Name": "Pearce Green Condos",
+        "Project_De": "Tract 16295 - Subdivision of 1.24 acre site into 20 three-story condominium units",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Pearce-Green-Condos.pdf",
+        "Address": "4861 Pearce Dr.",
+        "DevStatus": "Planned",
+        "Order_": 24
+      },
+      "geometry": {
+        "x": -13140619.867885437,
+        "y": 3991198.7601112803
+      }
+    },
+    {
+      "attributes": {
+        "FID": 25,
+        "Name": "Express Carwash",
+        "Project_De": "New 3,115 SF drive-thru car wash on the vacant corner of the 4.5 acre lot size",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Express-Carwash.pdf",
+        "Address": "16502 Bolsa Chica",
+        "DevStatus": "Planned",
+        "Order_": 25
+      },
+      "geometry": {
+        "x": -13140273.731957285,
+        "y": 3991575.2695173146
+      }
+    },
+    {
+      "attributes": {
+        "FID": 26,
+        "Name": "Sunset PCH Hotel",
+        "Project_De": "New 19,833 SF, three-story mixed use building with 1,800 sq ft commercial tenant space and 12 units on a 0.41 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Sunset-PCH-Hotel-.pdf",
+        "Address": "17145 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 26
+      },
+      "geometry": {
+        "x": -13142931.390327383,
+        "y": 3990327.8996133967
+      }
+    },
+    {
+      "attributes": {
+        "FID": 27,
+        "Name": "16655 PCH Mixed Use",
+        "Project_De": "New 5968 SF, three-story, mixed use building, with 1,716 sq. ft. townhome with 2-car garage and roof top deck on a 0.13 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/16655-PCH-Mixed-Use.pdf",
+        "Address": "16655 Pacific Coast Highway",
+        "DevStatus": "Planned",
+        "Order_": 27
+      },
+      "geometry": {
+        "x": -13143890.57404903,
+        "y": 3991287.5606033476
+      }
+    },
+    {
+      "attributes": {
+        "FID": 28,
+        "Name": "Magnolia Tank Farm",
+        "Project_De": "Specific Plan and EIR for 250 new signle family homes and 175 room hotel",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Magnolia-Tank-Farm.pdf",
+        "Address": "21845 Magnolia St.",
+        "DevStatus": "Planned",
+        "Order_": 28
+      },
+      "geometry": {
+        "x": -13132645.771185296,
+        "y": 3981263.8061435716
+      }
+    },
+    {
+      "attributes": {
+        "FID": 29,
+        "Name": "405 Widening Project",
+        "Project_De": "Bridge Replacement including travel lanes, sidewalks and bike lanes.",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/405-Widening-Project-(McFadden-Ave.).pdf",
+        "Address": "McFadden Ave.",
+        "DevStatus": "Under Construction",
+        "Order_": 29
+      },
+      "geometry": {
+        "x": -13135150.844029635,
+        "y": 3993505.3564395043
+      }
+    },
+    {
+      "attributes": {
+        "FID": 30,
+        "Name": "7-Eleven",
+        "Project_De": "New 2,323 SF convenience store with an eight pump fuiling station and a type ABC license on a 0.50 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/7-Eleven.pdf",
+        "Address": "16171 Beach Blvd.",
+        "DevStatus": "Under Construction",
+        "Order_": 30
+      },
+      "geometry": {
+        "x": -13134554.399289437,
+        "y": 3992263.456684737
+      }
+    },
+    {
+      "attributes": {
+        "FID": 31,
+        "Name": "405 Widening Project",
+        "Project_De": "Bridge Replacement including travel lanes, sidewalks and bike lanes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/405-Widening-Project-(Edinger-Ave.).pdf",
+        "Address": "Edinger Ave.",
+        "DevStatus": "Under Construction",
+        "Order_": 31
+      },
+      "geometry": {
+        "x": -13134116.80981326,
+        "y": 3992630.2394725834
+      }
+    },
+    {
+      "attributes": {
+        "FID": 32,
+        "Name": "405 Widening Project",
+        "Project_De": "Bridge Replacement including travel lanes, sidewalks and bike lanes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/405-Widening-Project-(Newland-Ave.).pdf",
+        "Address": "Newland Ave.",
+        "DevStatus": "Under Construction",
+        "Order_": 32
+      },
+      "geometry": {
+        "x": -13133555.40330802,
+        "y": 3992174.3427304947
+      }
+    },
+    {
+      "attributes": {
+        "FID": 33,
+        "Name": "405 Widening Project",
+        "Project_De": "Improvements and new pedistriant bridge",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/405-Widening-Project-(Heil-Ave.).pdf",
+        "Address": "Heil Ave./Landua Ln.",
+        "DevStatus": "Under Construction",
+        "Order_": 33
+      },
+      "geometry": {
+        "x": -13132941.502655748,
+        "y": 3991649.938398728
+      }
+    },
+    {
+      "attributes": {
+        "FID": 34,
+        "Name": "G&M Oil",
+        "Project_De": "New 2,168 SF commercial building with a 4,412 SF gas canopy on a 0.31 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/G&M-Oil-(16990-Beach-Blvd.).pdf",
+        "Address": "16990 Beach Blvd.",
+        "DevStatus": "Under Construction",
+        "Order_": 34
+      },
+      "geometry": {
+        "x": -13134427.223075263,
+        "y": 3990732.6617823527
+      }
+    },
+    {
+      "attributes": {
+        "FID": 35,
+        "Name": "Subaru Dealer",
+        "Project_De": "New 17,862 SF Subaru automobile dealership with a 4,279 sq. ft. canopy on a 2.18 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Subaru-Dealer.pdf",
+        "Address": "18711 Beach Blvd.",
+        "DevStatus": "Under Construction",
+        "Order_": 35
+      },
+      "geometry": {
+        "x": -13134527.629966661,
+        "y": 3987330.295132644
+      }
+    },
+    {
+      "attributes": {
+        "FID": 36,
+        "Name": "Harbor Circle",
+        "Project_De": "New 7,600 SF medical office building on a 0.80 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Harbor-Circle.pdf",
+        "Address": "19201 Brookhurst St.",
+        "DevStatus": "Under Construction",
+        "Order_": 36
+      },
+      "geometry": {
+        "x": -13130642.869599612,
+        "y": 3986449.08970484
+      }
+    },
+    {
+      "attributes": {
+        "FID": 37,
+        "Name": "Cosmetic Center",
+        "Project_De": "New 8,663 SF medical office building with parking  lot improvements on a 0.58 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Cosmetic-Center.pdf",
+        "Address": "19121 Brookhurst St.",
+        "DevStatus": "Under Construction",
+        "Order_": 37
+      },
+      "geometry": {
+        "x": -13130658.640316669,
+        "y": 3986578.7350719124
+      }
+    },
+    {
+      "attributes": {
+        "FID": 38,
+        "Name": "Holly Townhomes",
+        "Project_De": "Tract 18105 - Subdivision of 1.93 acres into 32 three and two-story condominium units",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Holly-Townhomes.pdf",
+        "Address": "19200 Holly Ln.",
+        "DevStatus": "Under Construction",
+        "Order_": 38
+      },
+      "geometry": {
+        "x": -13135594.961461615,
+        "y": 3986382.3240766795
+      }
+    },
+    {
+      "attributes": {
+        "FID": 39,
+        "Name": "Gothard Townhomes",
+        "Project_De": "Tract 18106 - Subdivision of 1.28 acres into 21 three and two-story condominium units",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Gothard-Townhomes.pdf",
+        "Address": "19100 Gothard Ln.",
+        "DevStatus": "Under Construction",
+        "Order_": 39
+      },
+      "geometry": {
+        "x": -13135829.856596148,
+        "y": 3986617.586108413
+      }
+    },
+    {
+      "attributes": {
+        "FID": 40,
+        "Name": "Lebard Subdivision",
+        "Project_De": "Tract 17801 - Subdivision of 6.5 acres into 15 single family homes",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Lebard-Subdivision.pdf",
+        "Address": "20451 Craimer Ln.",
+        "DevStatus": "Under Construction",
+        "Order_": 40
+      },
+      "geometry": {
+        "x": -13130242.11762578,
+        "y": 3983991.0403984417
+      }
+    },
+    {
+      "attributes": {
+        "FID": 41,
+        "Name": "Magnolia Tank Farm",
+        "Project_De": "Tank Demo Complete. Property now Leased to HB Chrysler for Storage of 2,000 vehicles (Erosion Control & BMP's under construction) on a 29 acre size lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Magnolia-Tank-Farm.pdf",
+        "Address": "21845 Magnolia St.",
+        "DevStatus": "Under Construction",
+        "Order_": 41
+      },
+      "geometry": {
+        "x": -13132637.212398361,
+        "y": 3981399.445744076
+      }
+    },
+    {
+      "attributes": {
+        "FID": 42,
+        "Name": "ASCON Landfill",
+        "Project_De": "Onsite remediation project on a vacant 38 acre lot size",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/ASCON-Landfill.pdf",
+        "Address": "21641 Magnolia St.",
+        "DevStatus": "Under Construction",
+        "Order_": 42
+      },
+      "geometry": {
+        "x": -13132701.24571314,
+        "y": 3981722.6887756027
+      }
+    },
+    {
+      "attributes": {
+        "FID": 43,
+        "Name": "AES Power Plant",
+        "Project_De": "Power Plant Complete Demo of Old Plant Starts in 2023",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/AES-Power-Plant.pdf",
+        "Address": "21730 Newland St.",
+        "DevStatus": "Under Construction",
+        "Order_": 43
+      },
+      "geometry": {
+        "x": -13133285.973287573,
+        "y": 3981184.2896868023
+      }
+    },
+    {
+      "attributes": {
+        "FID": 44,
+        "Name": "Shorehouse Condos",
+        "Project_De": "New 32,941 SF, three-story condominium, with 20 units, 1 story of retail space and a 5 level subterranean parking garage on a 0.42 acre lot",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Shorehouse-Condos.pdf",
+        "Address": "414-424 Main St.",
+        "DevStatus": "Under Construction",
+        "Order_": 44
+      },
+      "geometry": {
+        "x": -13135540.152153958,
+        "y": 3983276.75577182
+      }
+    },
+    {
+      "attributes": {
+        "FID": 45,
+        "Name": "Pacifica Tower Parking Structure",
+        "Project_De": "New four-story, 304 space parking structure, with associated site improvements including interior landscaping and reconfiguration of surface parking lot for the Pacifica Tower",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Pacifica-Tower-Parking-Structure.pdf",
+        "Address": "18800 Delaware St.",
+        "DevStatus": "Under Construction",
+        "Order_": 45
+      },
+      "geometry": {
+        "x": -13134872.275000272,
+        "y": 3987094.470224522
+      }
+    },
+    {
+      "attributes": {
+        "FID": 46,
+        "Name": "Parkside Estates",
+        "Project_De": "Tract 15377 - Subdivision of 45 acres into 111 single family homes and 1.57 acre park",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Parkside-Estates.pdf",
+        "Address": "17301 Graham St.",
+        "DevStatus": "Under Construction",
+        "Order_": 46
+      },
+      "geometry": {
+        "x": -13139723.73350842,
+        "y": 3990006.669758643
+      }
+    },
+    {
+      "attributes": {
+        "FID": 47,
+        "Name": "Huntington Gateway",
+        "Project_De": "Phase 3 with 4 new commercial buildings on a 22 acre site",
+        "DEV_link": "https://huntingtonbeachca.gov/files/users/public_works/Huntington-Gateway-(Phase-3).pdf",
+        "Address": "5301 Bolsa Ave.",
+        "DevStatus": "Planned",
+        "Order_": 47
+      },
+      "geometry": {
+        "x": -13139451.180410484,
+        "y": 3994664.168684796
+      }
+    }
+  ]
+}

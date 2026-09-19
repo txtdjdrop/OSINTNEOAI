@@ -1,0 +1,16 @@
+[Unit]
+Description=OsintNeoAI Forensic Intelligence Platform
+After=network.target
+
+[Service]
+Type=simple
+User=brainmedus_gmail_com
+WorkingDirectory=/home/brainmedus_gmail_com/OsintNeoAi
+ExecStart=/home/brainmedus_gmail_com/OsintNeoAi/venv/bin/python app/main.py
+Restart=always
+RestartSec=10
+Environment=PYTHONUNBUFFERED=1
+Environment=GOOGLE_APPLICATION_CREDENTIALS=/tmp/adc.json
+
+[Install]
+WantedBy=multi-user.target

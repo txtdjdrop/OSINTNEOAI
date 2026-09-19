@@ -1,0 +1,60 @@
+# Credentials and Private Keys
+*.env
+*.env.*
+.env.*
+*.pem
+*.key
+credentials/
+secrets/
+gcp_adc.json
+*adc*.json
+*service_account*.json
+*token*.json
+
+# OS, Temp & Build Artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+.agents/
+.pytest_cache/
+.copilot-azure/
+
+# Large binaries and deployment zip archives
+*.zip
+*.tar
+*.gz
+*.patch
+*.exe
+*.dll
+cloudflared.exe
+azure_deploy.zip
+backup_patches_auto_leads.patch
+Program Files/
+tasklet_export/
+opencode_work/
+evidence/google_photos*/
+
+# Non-relevant bloat (archived locally, not needed in repo)
+exports/
+docs/
+screenshots/
+dns/
+whois/
+ssl/
+endpoint_captures/
+port_scans/
+http_headers/
+web_content/
+data/osintcabal_guides/
+data/chats/
+data/satellites/
+data/stealth_lockbox/
+data/lockbox_vault/
+scratch/
+.backup_*/
+.backup_repo/

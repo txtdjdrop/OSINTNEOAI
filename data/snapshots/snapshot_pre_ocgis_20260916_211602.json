@@ -1,0 +1,75 @@
+{
+  "law_mandate": "Universal AI Law 14 Pre-Action Reversible State Preservation",
+  "tag_name": "snapshot_pre_ocgis_20260916_211602",
+  "created_at_utc": "2026-09-16T21:16:02.688535+00:00",
+  "git_state": {
+    "head_sha": "7ee53843942208a0338bb53f1be23e1c9d3f0181",
+    "head_short": "7ee53843",
+    "branch": "main",
+    "is_clean": false,
+    "staged_files": [
+      "agents/sentinel/BRIEFING.md"
+    ],
+    "unstaged_files": [
+      "PROJECT.md",
+      "TEST_INFRA.md",
+      "TEST_READY.md"
+    ]
+  },
+  "backup_records": [
+    {
+      "source": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\data\\ocgis_historical_apn_data.json",
+      "relative_path": "data/ocgis_historical_apn_data.json",
+      "status": "BACKED_UP",
+      "bak_path": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\data\\ocgis_historical_apn_data.json.bak",
+      "sha256_original": "f4b8198fdd318af34a2fa00a3d535b302b4d7657d668364bed76bb9cf16aa3ad",
+      "sha256_bak": "f4b8198fdd318af34a2fa00a3d535b302b4d7657d668364bed76bb9cf16aa3ad",
+      "size_bytes": 453,
+      "timestamp": "2026-09-16T21:16:10.007006+00:00"
+    },
+    {
+      "source": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\tools\\ocgis_scraper.py",
+      "relative_path": "tools/ocgis_scraper.py",
+      "status": "BACKED_UP",
+      "bak_path": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\tools\\ocgis_scraper.py.bak",
+      "sha256_original": "c6afe570a62dee957bb842eabc634d2f5a6a8180823c228ad1591008eb757331",
+      "sha256_bak": "c6afe570a62dee957bb842eabc634d2f5a6a8180823c228ad1591008eb757331",
+      "size_bytes": 5140,
+      "timestamp": "2026-09-16T21:16:10.021132+00:00"
+    },
+    {
+      "source": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\PROJECT.md",
+      "relative_path": "PROJECT.md",
+      "status": "BACKED_UP",
+      "bak_path": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\PROJECT.md.bak",
+      "sha256_original": "73d9ce8234c1aa7e9b403ee132e59cfd8ba07e5d66262145fc159aad056d0439",
+      "sha256_bak": "73d9ce8234c1aa7e9b403ee132e59cfd8ba07e5d66262145fc159aad056d0439",
+      "size_bytes": 5261,
+      "timestamp": "2026-09-16T21:16:10.040228+00:00"
+    },
+    {
+      "source": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\TEST_INFRA.md",
+      "relative_path": "TEST_INFRA.md",
+      "status": "BACKED_UP",
+      "bak_path": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\TEST_INFRA.md.bak",
+      "sha256_original": "e29fd5ffa221cb6aad59abff3895f9e1d04abc53ed7f5a1d352e20c3f0fff79c",
+      "sha256_bak": "e29fd5ffa221cb6aad59abff3895f9e1d04abc53ed7f5a1d352e20c3f0fff79c",
+      "size_bytes": 9885,
+      "timestamp": "2026-09-16T21:16:10.091287+00:00"
+    },
+    {
+      "source": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\TEST_READY.md",
+      "relative_path": "TEST_READY.md",
+      "status": "BACKED_UP",
+      "bak_path": "C:\\Users\\Amd949609\\StudioProjects\\OsintNeoAi\\TEST_READY.md.bak",
+      "sha256_original": "afa5c135e372086020149890bf9a0ba390575817678e1c17a0f471beb02eb1b3",
+      "sha256_bak": "afa5c135e372086020149890bf9a0ba390575817678e1c17a0f471beb02eb1b3",
+      "size_bytes": 16614,
+      "timestamp": "2026-09-16T21:16:10.104152+00:00"
+    }
+  ],
+  "restore_instructions": {
+    "git_tag_restore": "git checkout snapshot_pre_ocgis_20260916_211602",
+    "file_restore": "python scripts/backup_pre_action_snapshot.py --restore"
+  }
+}

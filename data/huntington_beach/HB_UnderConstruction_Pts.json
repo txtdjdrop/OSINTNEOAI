@@ -1,0 +1,271 @@
+{
+  "count": 14,
+  "features": [
+    {
+      "attributes": {
+        "FID": 1,
+        "id": 61,
+        "Name": "Pierside Pavilion Expansion",
+        "Location": "300 Pacific Coast Hwy",
+        "Applicant": "Michael C Adams",
+        "DPM": "Jason Kelley",
+        "PM_Contact": "jkelley@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.657191,
+        "long": -118.001054
+      },
+      "geometry": {
+        "x": -13135817.255481526,
+        "y": 3982863.568438762
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "id": 50,
+        "Name": "Ascon Landfill Site",
+        "Location": "Southwest Corner of Magnolia St and Hamilton Ave",
+        "Applicant": "California Department of Toxic Substances Control",
+        "DPM": "Ricky Ramos",
+        "PM_Contact": "rramos@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.648617,
+        "long": -117.972975
+      },
+      "geometry": {
+        "x": -13132691.540292157,
+        "y": 3981716.938183735
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "id": 57,
+        "Name": "Jamboree Senior Housing",
+        "Location": "18431 Beach Blvd.",
+        "Applicant": "Christopher Bloom, Jamboree Housing",
+        "DPM": "Joanna Cortez",
+        "PM_Contact": "Joanna.Cortez@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.694537,
+        "long": -117.989881
+      },
+      "geometry": {
+        "x": -13134573.525752025,
+        "y": 3987859.132287604
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "id": 58,
+        "Name": "Main Street Mixed Use",
+        "Location": "414-424 Main Street",
+        "Applicant": "Peter Zehnder",
+        "DPM": "Joanna Cortez",
+        "PM_Contact": "Joanna.Cortez@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.660285,
+        "long": -117.998542
+      },
+      "geometry": {
+        "x": -13135537.619526563,
+        "y": 3983277.356292
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "id": 54,
+        "Name": "Gisler Residential",
+        "Location": "21141 Strathmoor",
+        "Applicant": "Brookfield Residential",
+        "DPM": "Ricky Ramos",
+        "PM_Contact": "rramos@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.655051,
+        "long": -117.959221
+      },
+      "geometry": {
+        "x": -13131160.366062822,
+        "y": 3982577.3173423917
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "id": 51,
+        "Name": "Cameron Lane Townhomes",
+        "Location": "17532 Cameron Ln",
+        "Applicant": "Jennifer Colicchio",
+        "DPM": " ",
+        "PM_Contact": " ",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.707864,
+        "long": -117.987459
+      },
+      "geometry": {
+        "x": -13134303.89569547,
+        "y": 3989642.364037823
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "id": 53,
+        "Name": "Georgia Townhomes",
+        "Location": "910 Georgia Street",
+        "Applicant": "Justin Jarjour",
+        "DPM": " ",
+        "PM_Contact": " ",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.665391,
+        "long": -117.989298
+      },
+      "geometry": {
+        "x": -13134508.572415812,
+        "y": 3983960.2194302515
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "id": 56,
+        "Name": "Huntington Gateway Business Park Phase II",
+        "Location": "5241 Bolsa Ave",
+        "Applicant": "Patrick Russell, Huntington Gateway Industrial LLC",
+        "DPM": "Hayden Beckman",
+        "PM_Contact": "hayden.beckman@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.746283,
+        "long": -118.033693
+      },
+      "geometry": {
+        "x": -13139450.549612524,
+        "y": 3994784.732491141
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9,
+        "id": 59,
+        "Name": "OC Water District Groundwater Replenishment System",
+        "Location": "22212 Brookhurst St",
+        "Applicant": "Kathryn Demesa, OC Water District",
+        "DPM": "Joanna Cortez",
+        "PM_Contact": "Joanna.Cortez@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.644401,
+        "long": -117.954937
+      },
+      "geometry": {
+        "x": -13130683.523392664,
+        "y": 3981153.128613194
+      }
+    },
+    {
+      "attributes": {
+        "FID": 10,
+        "id": 60,
+        "Name": "Olson Residential",
+        "Location": "8371-8461 Talbert Ave",
+        "Applicant": "The Olson Company",
+        "DPM": "Ricky Ramos",
+        "PM_Contact": "rramos@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.701582,
+        "long": -117.981482
+      },
+      "geometry": {
+        "x": -13133638.492304236,
+        "y": 3988801.764139999
+      }
+    },
+    {
+      "attributes": {
+        "FID": 11,
+        "id": 62,
+        "Name": "Seacliff at Huntington Beach Inspired Senior Living Facility",
+        "Location": "2120 Main St",
+        "Applicant": "Joeseph P. McGonigle, SBLP Huntington Beach, LLC",
+        "DPM": "Hayden Beckman",
+        "PM_Contact": "hayden.beckman@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.680358,
+        "long": -118.000365
+      },
+      "geometry": {
+        "x": -13135740.490488095,
+        "y": 3985962.241421511
+      }
+    },
+    {
+      "attributes": {
+        "FID": 12,
+        "id": 52,
+        "Name": "Delaware Housing Project",
+        "Location": "18750 Delaware St",
+        "Applicant": "Holland Partner Group",
+        "DPM": " ",
+        "PM_Contact": " ",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.68963,
+        "long": -117.99211
+      },
+      "geometry": {
+        "x": -13134821.63301885,
+        "y": 3987202.6647229674
+      }
+    },
+    {
+      "attributes": {
+        "FID": 13,
+        "id": 55,
+        "Name": "Hilltop Market Expansion",
+        "Location": "815 Indianapolis Avenue",
+        "Applicant": "Justin Jarjour",
+        "DPM": " ",
+        "PM_Contact": " ",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.665398,
+        "long": -117.988889
+      },
+      "geometry": {
+        "x": -13134463.042744076,
+        "y": 3983961.1556871976
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "id": 63,
+        "Name": "Shake Shack",
+        "Location": "20100 Brookhurst St",
+        "Applicant": " ",
+        "DPM": "Joanna Cortez",
+        "PM_Contact": "Joanna.Cortez@surfcity-hb.org",
+        "Status": "Under Construction",
+        "icon_color": "r",
+        "lat": 33.670583,
+        "long": -117.953387
+      },
+      "geometry": {
+        "x": -13130510.956653897,
+        "y": 3984654.684047635
+      }
+    }
+  ]
+}

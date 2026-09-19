@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% set active = "pipeline" %}
+{% block title %}OsintNeoAI - Pipeline{% endblock %}
+{% block content %}
+<div class="card">
+    <h3>7-Phase Forensic Pipeline</h3>
+    <p class="text-sm text-dim mb-1">Automated forensic intelligence analysis</p>
+    <button onclick="runFull()" id="runBtn">RUN FULL PIPELINE</button>
+</div>
+
+<div id="results"></div>
+
+<div class="card mt-1">
+    <h3>Individual Phases</h3>
+    <div class="grid">
+        <button onclick="runPhase(0)">Phase 1: Evidence</button>
+        <button onclick="runPhase(1)">Phase 2: Parcels</button>
+        <button onclick="runPhase(2)">Phase 3: Cross-Ref</button>
+        <button onclick="runPhase(3)">Phase 4: Temporal</button>
+        <button onclick="runPhase(4)">Phase 5: Entities</button>
+        <button onclick="runPhase(5)">Phase 6: GIS</button>
+        <button onclick="runPhase(6)">Phase 7: Report</button>
+    </div>
+</div>
+
+<div class="card mt-1">
+    <h3>Scraping Tools</h3>
+    <button onclick="runTool('edr')">Run EDR Scanner</button>
+    <button onclick="runTool('ocgis')" class="secondary">Run OCGIS Scraper</button>
+    <pre id="tool-output">Ready...</pre>
+</div>
+
+<script>
+async function runFull() {
+    const btn = document.getElementById('runBtn');
+    btn.disabled = true;
+    btn.textContent = 'RUNNING...';
+    
+    const resp = await fetch('/api/pipeline/run', {method: 'POST'});
+    const data = await resp.json();
+    
+    let html = `<div class="card"><h3>Pipeline Complete (${data.total_ms}ms)</h3>`;
+    data.phases.forEach(p => {
+        const icon = p.status === 'complete' ? '+' : '!';
+        html += `<div class="mb-1">
+            <span class="badge">${p.phase}</span>
+            <strong>${p.name}</strong>
+            <span class="text-dim text-sm">${p.status}</span>
+        </div>`;
+        if (p.count) html += `<div class="text-sm text-dim" style="margin-left:20px">${p.count} rows</div>`;
+        if (p.note) `<div class="text-sm text-dim" style="margin-left:20px">${p.note}</div>`;
+        if (p.error) `<div class="text-sm" style="color:var(--err);margin-left:20px">${p.error}</div>`;
+    });
+    
+    document.getElementById('results').innerHTML = html;
+    btn.disabled = false;
+}
+
+async function runPhase(n) {
+    const el = document.getElementById('results');
+    el.innerHTML = `<div class="card"><h3>Running Phase ${n+1}...</h3><span class="spinner"></span></div>`;
+    
+    try {
+        const resp = await fetch('/api/pipeline/run', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({phase: n})
+        });
+        const data = await resp.json();
+        const p = data.phases[0];
+        el.innerHTML = `<div class="card"><h3>Phase ${p.phase}: ${p.name}</h3>
+            <p>Status: <span class="badge">${p.status}</span></p>
+            ${p.count ? `<p>${p.count} rows in ${p.elapsed_ms}ms</p>` : ''}
+            ${p.note ? `<p class="text-dim">${p.note}</p>` : ''}
+            ${p.error ? `<p style="color:var(--err)">${p.error}</p>` : ''}
+            <pre>${JSON.stringify(p.rows || [], null, 2).substring(0, 1000)}</pre></div>`;
+    } catch(e) {
+        el.innerHTML = `<div class="card"><h3>Error</h3><p>${e.message}</p></div>`;
+    }
+}
+
+async function runTool(tool) {
+    const el = document.getElementById('tool-output');
+    el.textContent = `Running ${tool}...`;
+    const resp = await fetch('/api/chat', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({message: `run ${tool}`})
+    });
+    const data = await resp.json();
+    el.textContent = data.response;
+}
+</script>
+{% endblock %}

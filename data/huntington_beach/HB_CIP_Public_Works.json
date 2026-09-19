@@ -1,0 +1,887 @@
+{
+  "count": 42,
+  "features": [
+    {
+      "attributes": {
+        "FID": 1,
+        "FID_": 1,
+        "Order_": 11,
+        "Name": "Traffic Signal Synchronization Edinger Avenue CC-1613",
+        "DescNeed": "Provide operational and infrastructure improvements along Edinger Avenue from Bolsa Chica Street to Newland Street.",
+        "TotalCost": 2100000,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1612137600000,
+        "ForComplet": "Dec-26",
+        "x": -118.0154864,
+        "y": 33.73006
+      },
+      "geometry": {
+        "x": -13137423.851768501,
+        "y": 3992613.016622133
+      }
+    },
+    {
+      "attributes": {
+        "FID": 2,
+        "FID_": 3,
+        "Order_": 16,
+        "Name": "Traffic Signal Synchronization Bolsa Avenue CC-1650",
+        "DescNeed": "Provide operational and infrastructure improvements along Bolsa Avenue from Bolsa Chica Street to Edwards Street.",
+        "TotalCost": 220000,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1633046400000,
+        "ForComplet": "Sep-26",
+        "x": -118.028719,
+        "y": 33.74448
+      },
+      "geometry": {
+        "x": -13138896.898062369,
+        "y": 3994543.3202803466
+      }
+    },
+    {
+      "attributes": {
+        "FID": 3,
+        "FID_": 5,
+        "Order_": 26,
+        "Name": "Heil Pump Station Relocation CC-1293",
+        "DescNeed": "Construct Heil Pump Station at 7241 Heil Ave. Is in need of replacement due to age and lack of sufficient capacity.",
+        "TotalCost": 12800000,
+        "DPM": "Patrick Bannon",
+        "PMContact": "patrick.bannon@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1633046400000,
+        "ForComplet": "Dec-26",
+        "x": -117.9972534,
+        "y": 33.68545
+      },
+      "geometry": {
+        "x": -13135394.163492866,
+        "y": 3986643.443373021
+      }
+    },
+    {
+      "attributes": {
+        "FID": 4,
+        "FID_": 6,
+        "Order_": 39,
+        "Name": "McFadden Sewer Lift Station CC-1610",
+        "DescNeed": "Abandon and construct new sewer lift station, emergency generator, and 960 LF of gravity sewer main in McFadden.",
+        "TotalCost": 4850000,
+        "DPM": "Michael Aguas",
+        "PMContact": "michael.aguas@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1588291200000,
+        "ForComplet": "Dec-26",
+        "x": -117.997251,
+        "y": 33.68525
+      },
+      "geometry": {
+        "x": -13135393.896326086,
+        "y": 3986616.6869661454
+      }
+    },
+    {
+      "attributes": {
+        "FID": 5,
+        "FID_": 7,
+        "Order_": 40,
+        "Name": "Davenport Sewer Lift Station CC-1635",
+        "DescNeed": "Abandon and construct new sewer lift station and emergency generator.",
+        "TotalCost": 4355000,
+        "DPM": "Kyle Hilton",
+        "PMContact": "kyle.hilton@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1635724800000,
+        "ForComplet": "Dec-27",
+        "x": -117.9969873,
+        "y": 33.68525
+      },
+      "geometry": {
+        "x": -13135364.541376363,
+        "y": 3986616.6869661454
+      }
+    },
+    {
+      "attributes": {
+        "FID": 6,
+        "FID_": 11,
+        "Order_": 61,
+        "Name": "Marina Park \u2013 Redevelopment, CC-1655",
+        "DescNeed": "Develop final design for Marina Park, based on the approved Conceptual plan.",
+        "TotalCost": 475000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1664582400000,
+        "ForComplet": "TBD",
+        "x": -118.059474,
+        "y": 33.716561
+      },
+      "geometry": {
+        "x": -13142320.529001717,
+        "y": 3990806.294666223
+      }
+    },
+    {
+      "attributes": {
+        "FID": 7,
+        "FID_": 12,
+        "Order_": 63,
+        "Name": "Edison Park \u2013 Redevelopment, CC-1860",
+        "DescNeed": "Develop final design for Edison Park, based on the approved Conceptual plan.",
+        "TotalCost": 4975000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1667260800000,
+        "ForComplet": "TBD",
+        "x": -117.9729306,
+        "y": 33.65206
+      },
+      "geometry": {
+        "x": -13132686.5617822,
+        "y": 3982177.3231550525
+      }
+    },
+    {
+      "attributes": {
+        "FID": 8,
+        "FID_": 13,
+        "Order_": 64,
+        "Name": "Carr Park \u2013 Redevelopment, CC-1679",
+        "DescNeed": "Develop final design for Carr Park, based on the approved Conceptual plan.",
+        "TotalCost": 355000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1669852800000,
+        "ForComplet": "TBD",
+        "x": -118.0228552,
+        "y": 33.72159
+      },
+      "geometry": {
+        "x": -13138244.142832257,
+        "y": 3991479.3487028
+      }
+    },
+    {
+      "attributes": {
+        "FID": 9,
+        "FID_": 19,
+        "Order_": 77,
+        "Name": "Murdy Fire Station Signal, CC-1672",
+        "DescNeed": "Install traffic signal at the driveway of the Murdy Fire Station on Gothard Street between Edinger Ave and Heil Ave",
+        "TotalCost": 380000,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1685577600000,
+        "ForComplet": "Jul-26",
+        "x": -118.0002242,
+        "y": 33.7268726
+      },
+      "geometry": {
+        "x": -13135724.871436117,
+        "y": 3992186.385650444
+      }
+    },
+    {
+      "attributes": {
+        "FID": 10,
+        "FID_": 20,
+        "Order_": 78,
+        "Name": "Bolsa Chica Traffic Signal Synchronization Project, CC-1622",
+        "DescNeed": "Provide operational and infrastructure improvements along Bolsa Chica Street from Chapman Ave to Warner Ave.",
+        "TotalCost": 2343900,
+        "DPM": "John Nguyen",
+        "PMContact": "john.nguyen@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1698796800000,
+        "ForComplet": "Jul-28",
+        "x": -118.0319351,
+        "y": 33.74444
+      },
+      "geometry": {
+        "x": -13139254.912676709,
+        "y": 3994537.9653137606
+      }
+    },
+    {
+      "attributes": {
+        "FID": 11,
+        "FID_": 25,
+        "Order_": 86,
+        "Name": "Water Production Building Rehabilitation FY 2023-24",
+        "DescNeed": "Renovate office space to increase operation efficiency for the water production group.",
+        "TotalCost": 480000,
+        "DPM": "Joe Pinel",
+        "PMContact": "Joseph-pinel@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1785542400000,
+        "ForComplet": "Nov-26",
+        "x": -117.9955709,
+        "y": 33.68546
+      },
+      "geometry": {
+        "x": -13135206.868449604,
+        "y": 3986644.7811949947
+      }
+    },
+    {
+      "attributes": {
+        "FID": 12,
+        "FID_": 27,
+        "Order_": 89,
+        "Name": "C6 SC1 Channel Repairs  CC-1674",
+        "DescNeed": "Repair sections of channel that are failing due to soil surcharge behind the embankments",
+        "TotalCost": 329095,
+        "DPM": "Steven Folkes",
+        "PMContact": "steven.folkes@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1722470400000,
+        "ForComplet": "Sep-26",
+        "x": -117.9834887,
+        "y": 33.71095
+      },
+      "geometry": {
+        "x": -13133861.884097941,
+        "y": 3990055.3954408243
+      }
+    },
+    {
+      "attributes": {
+        "FID": 13,
+        "FID_": 28,
+        "Order_": 90,
+        "Name": "Treatment System for Well 3A  CC-1731 (OCWD Funding Project)",
+        "DescNeed": "Install a well head treatment system to treat for Manganese",
+        "TotalCost": 1900000,
+        "DPM": "Kyle Hilton",
+        "PMContact": "kyle.hilton@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1685577600000,
+        "ForComplet": "Dec-26",
+        "x": -117.9968636,
+        "y": 33.68579
+      },
+      "geometry": {
+        "x": -13135350.771155355,
+        "y": 3986688.9294075826
+      }
+    },
+    {
+      "attributes": {
+        "FID": 14,
+        "FID_": 29,
+        "Order_": 91,
+        "Name": "Hartlund Lane Water Main Replacement CC-1735",
+        "DescNeed": "Replace existing ACP water mains with VCP water mains from Talbert Avenue to Le Conti Drive",
+        "TotalCost": 729770,
+        "DPM": "Joe Pinel",
+        "PMContact": "Joseph-pinel@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1782864000000,
+        "ForComplet": "Jan-27",
+        "x": -117.9829432,
+        "y": 33.69917
+      },
+      "geometry": {
+        "x": -13133801.159315715,
+        "y": 3988479.0815359345
+      }
+    },
+    {
+      "attributes": {
+        "FID": 15,
+        "FID_": 30,
+        "Order_": 92,
+        "Name": "On Site Chlorine Generation for Wells 7 & 13  CC-1734",
+        "DescNeed": "Replace existing Chlorine Gas disinfection system with On Site Chlorine Generation and Fluoride Generation for Wells 7 & 13",
+        "TotalCost": 7100000,
+        "DPM": "Michael Aguas",
+        "PMContact": "michael.aguas@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1685577600000,
+        "ForComplet": "Jun-27",
+        "x": -117.9968637,
+        "y": 33.6859
+      },
+      "geometry": {
+        "x": -13135350.782287301,
+        "y": 3986703.6455161073
+      }
+    },
+    {
+      "attributes": {
+        "FID": 16,
+        "FID_": 31,
+        "Order_": 94,
+        "Name": "Fueling Station Canopies",
+        "DescNeed": "This is a multi-year project to replace two (2) old canopies",
+        "TotalCost": 500000,
+        "DPM": "Joseph Pinel",
+        "PMContact": "joseph.pinel@surfcity-hb.org",
+        "Status": "Planned",
+        "StartDate": 1790812800000,
+        "ForComplet": "Jan-27",
+        "x": -118.0011087,
+        "y": 33.71039
+      },
+      "geometry": {
+        "x": -13135823.333525721,
+        "y": 3989980.4554200033
+      }
+    },
+    {
+      "attributes": {
+        "FID": 17,
+        "FID_": 32,
+        "Order_": 98,
+        "Name": "Well 4 Facilities Upgrade",
+        "DescNeed": "Install new well head, pump, electric motor with VFD starter, desander, and building upgrades to accommodate new equipment.",
+        "TotalCost": 1500000,
+        "DPM": "Kyle Hilton",
+        "PMContact": "kyle.hilton@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1698796800000,
+        "ForComplet": "Dec-27",
+        "x": -117.9968632,
+        "y": 33.68601
+      },
+      "geometry": {
+        "x": -13135350.726627555,
+        "y": 3986718.361643466
+      }
+    },
+    {
+      "attributes": {
+        "FID": 18,
+        "FID_": 34,
+        "Order_": 107,
+        "Name": "Edinger & Heil Corridors Traffic",
+        "DescNeed": "Traffic signal and operational improvements to enhance traffic and pedestrian safety",
+        "TotalCost": 826100,
+        "DPM": "John Nguyen",
+        "PMContact": "john.nguyen@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1698796800000,
+        "ForComplet": "Sep-26",
+        "x": -117.991705,
+        "y": 33.73022
+      },
+      "geometry": {
+        "x": -13134776.518430147,
+        "y": 3992634.4329133984
+      }
+    },
+    {
+      "attributes": {
+        "FID": 19,
+        "FID_": 37,
+        "Order_": 110,
+        "Name": "TS Modification - Bolsa & Amazon",
+        "DescNeed": "Modify traffic signal to provide eastbound left turn arrows",
+        "TotalCost": 402500,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In progress",
+        "StartDate": 1761955200000,
+        "ForComplet": "Jun-27",
+        "x": -118.0384915,
+        "y": 33.7444
+      },
+      "geometry": {
+        "x": -13139984.767786147,
+        "y": 3994532.61034967
+      }
+    },
+    {
+      "attributes": {
+        "FID": 20,
+        "FID_": 38,
+        "Order_": 111,
+        "Name": "Bushard Fire Station Signal",
+        "DescNeed": "Install traffic signal at Bushard Fire Station, including fiber optic communication along Bushard Street",
+        "TotalCost": 765000,
+        "DPM": "John Nguyen",
+        "PMContact": "john.nguyen@surfcity-hb.org",
+        "Status": "Planned",
+        "StartDate": 1756684800000,
+        "ForComplet": "Jul-27",
+        "x": -117.9625859,
+        "y": 33.67619
+      },
+      "geometry": {
+        "x": -13131534.995045789,
+        "y": 3985404.687010193
+      }
+    },
+    {
+      "attributes": {
+        "FID": 21,
+        "FID_": 39,
+        "Order_": 112,
+        "Name": "Goldenwest & Norma/Lydia TS",
+        "DescNeed": "Modify traffic signal to provide north/south left turn arrows",
+        "TotalCost": 527500,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1761955200000,
+        "ForComplet": "Jun-27",
+        "x": -118.0066334,
+        "y": 33.71902
+      },
+      "geometry": {
+        "x": -13136438.340316504,
+        "y": 3991135.3889400805
+      }
+    },
+    {
+      "attributes": {
+        "FID": 22,
+        "FID_": 40,
+        "Order_": 113,
+        "Name": "Goldenwest & Rio Vista TS Mod.",
+        "DescNeed": "Modify traffic signal to provide northbound left turn arrows",
+        "TotalCost": 230000,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1761955200000,
+        "ForComplet": "Jun-27",
+        "x": -118.0064586,
+        "y": 33.70509
+      },
+      "geometry": {
+        "x": -13136418.881669514,
+        "y": 3989271.225848031
+      }
+    },
+    {
+      "attributes": {
+        "FID": 23,
+        "FID_": 41,
+        "Order_": 114,
+        "Name": "CCTV Camera Installation",
+        "DescNeed": "Install CCTV cameras at 12 signalized locations",
+        "TotalCost": 0,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1756684800000,
+        "ForComplet": "Oct-26",
+        "x": -118.0003701,
+        "y": 33.67801
+      },
+      "geometry": {
+        "x": -13135741.112949818,
+        "y": 3985648.146948983
+      }
+    },
+    {
+      "attributes": {
+        "FID": 24,
+        "FID_": 42,
+        "Order_": 115,
+        "Name": "Downtown Street Lighting",
+        "DescNeed": "Replace high voltage circuits.  FY 25/26 construction on 12th, 13th, Walnut and Orange.  FY 25/26 design on Main Street.",
+        "TotalCost": 3760000,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1759276800000,
+        "ForComplet": "Jun-27",
+        "x": -118.0065538,
+        "y": 33.66498
+      },
+      "geometry": {
+        "x": -13136429.479285037,
+        "y": 3983905.2479061033
+      }
+    },
+    {
+      "attributes": {
+        "FID": 25,
+        "FID_": 43,
+        "Order_": 116,
+        "Name": "Citywide Safe Routes to School",
+        "DescNeed": "Comprehensive evaluation of pedestrian, bike and vehicle facilities at each public school",
+        "TotalCost": 625000,
+        "DPM": "William Janusz",
+        "PMContact": "wjanusz@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1788220800000,
+        "ForComplet": "Sep-26",
+        "x": -118.000157,
+        "y": 33.67843
+      },
+      "geometry": {
+        "x": -13135717.39076633,
+        "y": 3985704.330743608
+      }
+    },
+    {
+      "attributes": {
+        "FID": 26,
+        "FID_": 45,
+        "Order_": 118,
+        "Name": "Graham and Springdale Reconfig.",
+        "DescNeed": "Address excess right-of-way on the south ends of Graham and Springdale",
+        "TotalCost": 70000,
+        "DPM": "Bob Stachelski",
+        "PMContact": "bstachelski@surfcity-hb.org",
+        "Status": "Planned",
+        "StartDate": 1756684800000,
+        "ForComplet": "Dec-31",
+        "x": -118.0237387,
+        "y": 33.70378
+      },
+      "geometry": {
+        "x": -13138342.493602373,
+        "y": 3989095.932453853
+      }
+    },
+    {
+      "attributes": {
+        "FID": 27,
+        "FID_": 46,
+        "Order_": 119,
+        "Name": "Tide Check Valves CC-1774",
+        "DescNeed": "Install inline tide check valves to prevent tidal and stormwater backflow in drainage systems",
+        "TotalCost": 152300,
+        "DPM": "Michelle Galvez",
+        "PMContact": "michelle.galvez@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1767225600000,
+        "ForComplet": "Sep-26",
+        "x": -118.063769,
+        "y": 33.72012
+      },
+      "geometry": {
+        "x": -13142798.646214675,
+        "y": 3991282.607811506
+      }
+    },
+    {
+      "attributes": {
+        "FID": 28,
+        "FID_": 47,
+        "Order_": 120,
+        "Name": "Sewer Lining FY 2025-26 CC-1845",
+        "DescNeed": "Replace approximately 25,000 feet of sewer mains in the city through trenchless, less invasive methods",
+        "TotalCost": 2500000,
+        "DPM": "Michael Aguas",
+        "PMContact": "michael.aguas@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1782864000000,
+        "ForComplet": "Dec-26",
+        "x": -117.9966953,
+        "y": 33.68639
+      },
+      "geometry": {
+        "x": -13135332.03608505,
+        "y": 3986769.19931924
+      }
+    },
+    {
+      "attributes": {
+        "FID": 29,
+        "FID_": 49,
+        "Order_": 122,
+        "Name": "Old Pirate Drive Water Main Extension CC-1624",
+        "DescNeed": "Install approximately 380 LF of 8-inch water main along Old Pirate Drive and abandon existing water well",
+        "TotalCost": 400000,
+        "DPM": "Michael Aguas",
+        "PMContact": "michael.aguas@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1575158400000,
+        "ForComplet": "Aug-26",
+        "x": -118.0337644,
+        "y": 33.71941
+      },
+      "geometry": {
+        "x": -13139458.549421215,
+        "y": 3991187.584505925
+      }
+    },
+    {
+      "attributes": {
+        "FID": 30,
+        "FID_": 50,
+        "Order_": 123,
+        "Name": "Gilbert Lift Station Replacement CC-1846",
+        "DescNeed": "Design abandonment and construction of new sewer lift station",
+        "TotalCost": 500000,
+        "DPM": "Kyle Hilton",
+        "PMContact": "kyle.hilton@surfcity-hb.org",
+        "Status": "Planned",
+        "StartDate": 1756684800000,
+        "ForComplet": "Dec-27",
+        "x": -118.067414,
+        "y": 33.719234
+      },
+      "geometry": {
+        "x": -13143204.405758617,
+        "y": 3991164.0295545403
+      }
+    },
+    {
+      "attributes": {
+        "FID": 31,
+        "FID_": 51,
+        "Order_": 124,
+        "Name": "Well 9 GAC Media Replacement CC-1837",
+        "DescNeed": "Replace Granular Activated Carbon media to enhance H2S removal in potable groundwater treatment",
+        "TotalCost": 400000,
+        "DPM": "David Fait",
+        "PMContact": "david.fait@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1756684800000,
+        "ForComplet": "Jul-26",
+        "x": -117.9971001,
+        "y": 33.68639
+      },
+      "geometry": {
+        "x": -13135377.098214926,
+        "y": 3986769.19931924
+      }
+    },
+    {
+      "attributes": {
+        "FID": 32,
+        "FID_": 54,
+        "Order_": 127,
+        "Name": "City Gym & Pool \u2013 Flooring Replacement, CC-1850",
+        "DescNeed": "Remove existing flooring in the Lobby, Staff Offices adjacent to Lobby, and Room B. Replace the flooring with R11 rated non-slip porcelain tiles (Lobby and Offices) and heterogeneous flooring (Room B).",
+        "TotalCost": 162748,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1780272000000,
+        "ForComplet": "TBD",
+        "x": -118.006083,
+        "y": 33.66955
+      },
+      "geometry": {
+        "x": -13136377.070068777,
+        "y": 3984516.503231337
+      }
+    },
+    {
+      "attributes": {
+        "FID": 33,
+        "FID_": 55,
+        "Order_": 128,
+        "Name": "Newland House & Museum \u2013 Exterior Restoration, CC-1788",
+        "DescNeed": "Restore the exterior siding of the house and water tower, and re-paint the entire house and water tower.",
+        "TotalCost": 500000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1780272000000,
+        "ForComplet": "TBD",
+        "x": -117.9871226,
+        "y": 33.6744
+      },
+      "geometry": {
+        "x": -13134266.407995537,
+        "y": 3985165.245173512
+      }
+    },
+    {
+      "attributes": {
+        "FID": 34,
+        "FID_": 56,
+        "Order_": 129,
+        "Name": "Drew Park Playground \u2013 Full Replacement & Rubberized, CC-1859",
+        "DescNeed": "Remove and replace the existing play structure and remove and relocate the existing swing structure. Full poured-in-place surfacing in play and swing areas.",
+        "TotalCost": 467000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "Planned",
+        "StartDate": 1782864000000,
+        "ForComplet": "TBD",
+        "x": -117.9819419,
+        "y": 33.66807
+      },
+      "geometry": {
+        "x": -13133689.695109585,
+        "y": 3984318.5439030025
+      }
+    },
+    {
+      "attributes": {
+        "FID": 35,
+        "FID_": 57,
+        "Order_": 130,
+        "Name": "Art Center \u2013 Studio Lighting Rehabilitation, CC-1851",
+        "DescNeed": "Upgrade existing exhibition lighting.",
+        "TotalCost": 270000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1796083200000,
+        "ForComplet": "TBD",
+        "x": -117.9986745,
+        "y": 33.66228
+      },
+      "geometry": {
+        "x": -13135552.359621234,
+        "y": 3983544.127634642
+      }
+    },
+    {
+      "attributes": {
+        "FID": 36,
+        "FID_": 58,
+        "Order_": 131,
+        "Name": "Arevalos Park Playground \u2013 Full Replacement & Rubberized, CC-1858",
+        "DescNeed": "Remove and replace the existing play and swing structures. Full poured-in-place surfacing in play and swing areas.",
+        "TotalCost": 240000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "Planned",
+        "StartDate": 1793491200000,
+        "ForComplet": "Mar-27",
+        "x": -117.945503,
+        "y": 33.67651
+      },
+      "geometry": {
+        "x": -13129633.335316516,
+        "y": 3985447.4927799096
+      }
+    },
+    {
+      "attributes": {
+        "FID": 37,
+        "FID_": 59,
+        "Order_": 132,
+        "Name": "Murdy Park \u2013 Ball Field Improvements, CC-1749",
+        "DescNeed": "Develop final design for Murdy Park's two (2) ball fields.",
+        "TotalCost": 1119000,
+        "DPM": "Frank Drevdahl",
+        "PMContact": "frank.drevdahl@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1775001600000,
+        "ForComplet": "TBD",
+        "x": -118.003233,
+        "y": 33.7185
+      },
+      "geometry": {
+        "x": -13136059.809520014,
+        "y": 3991065.7952211304
+      }
+    },
+    {
+      "attributes": {
+        "FID": 38,
+        "FID_": 60,
+        "Order_": 133,
+        "Name": "2025 Arterial Rehabilitation & Alleys",
+        "DescNeed": "Bolsa Avenue Rehabilitation, 5 downtown alley segments, Frankfort Avenue storm drain improvements",
+        "TotalCost": 6783480,
+        "DPM": "Eduardo Cerda",
+        "PMContact": "Eduardo.Cerda@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1782864000000,
+        "ForComplet": "May-27",
+        "x": -118.019656,
+        "y": 33.74437
+      },
+      "geometry": {
+        "x": -13137888.009517308,
+        "y": 3994528.5941282455
+      }
+    },
+    {
+      "attributes": {
+        "FID": 39,
+        "FID_": 61,
+        "Order_": 134,
+        "Name": "Well 14 Storm Drain & Water Line Construction",
+        "DescNeed": "Construct a dedicated 24\" reinforced concrete storm drain waste line and 12\" PVC domestic water line for Well 14.",
+        "TotalCost": 2000000,
+        "DPM": "Kyle Hilton",
+        "PMContact": "kyle.hilton@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1782864000000,
+        "ForComplet": "Jul-27",
+        "x": -117.998435,
+        "y": 33.737581
+      },
+      "geometry": {
+        "x": -13135525.698603189,
+        "y": 3993619.759345557
+      }
+    },
+    {
+      "attributes": {
+        "FID": 40,
+        "FID_": 62,
+        "Order_": 135,
+        "Name": "Well 14 Drilling & Casing Installation",
+        "DescNeed": "Drill a new water well, test the new aquifer within the well and installation of the well casing.",
+        "TotalCost": 2000000,
+        "DPM": "Kyle Hilton",
+        "PMContact": "kyle.hilton@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1782864000000,
+        "ForComplet": "TBD",
+        "x": -117.998435,
+        "y": 33.737581
+      },
+      "geometry": {
+        "x": -13135525.698603189,
+        "y": 3993619.759345557
+      }
+    },
+    {
+      "attributes": {
+        "FID": 41,
+        "FID_": 63,
+        "Order_": 136,
+        "Name": "PD South Substation Improvements",
+        "DescNeed": "Enhance South Sub Station to improve longevity and functionality of facility.",
+        "TotalCost": 1700000,
+        "DPM": "Joseph Pinel",
+        "PMContact": "joseph.pinel@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1798761600000,
+        "ForComplet": "TBD",
+        "x": -118.001661,
+        "y": 33.65871
+      },
+      "geometry": {
+        "x": -13135884.815280484,
+        "y": 3983066.6637852653
+      }
+    },
+    {
+      "attributes": {
+        "FID": 42,
+        "FID_": 64,
+        "Order_": 137,
+        "Name": "Fire Department Remodel at City Hall",
+        "DescNeed": "Remodel the department's front counter area, offices, and meeting rooms for better customer service",
+        "TotalCost": 200000,
+        "DPM": "Joseph Pinel",
+        "PMContact": "joseph.pinel@surfcity-hb.org",
+        "Status": "In Progress",
+        "StartDate": 1788220800000,
+        "ForComplet": "TBD",
+        "x": -118.0003701,
+        "y": 33.67801
+      },
+      "geometry": {
+        "x": -13135741.112949818,
+        "y": 3985648.146948983
+      }
+    }
+  ]
+}

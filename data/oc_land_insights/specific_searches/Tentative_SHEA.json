@@ -1,0 +1,7 @@
+{
+  "name": "Tentative_SHEA",
+  "where": "UPPER(CITY) LIKE '%SHEA%' OR UPPER(ENGINEER) LIKE '%SHEA%' OR UPPER(CompanyName) LIKE '%SHEA%'",
+  "count": 0,
+  "time": "2026-09-16T06:52:13.486066",
+  "features": []
+}

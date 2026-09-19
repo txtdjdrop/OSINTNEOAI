@@ -1,0 +1,157 @@
+{% extends "base.html" %}
+{% set active = "home" %}
+{% block title %}OsintNeoAI - Dashboard{% endblock %}
+{% block content %}
+<div class="text-center mb-1">
+    <span class="text-sm text-dim">VM: 136.119.249.79 | GCP Free Tier</span>
+</div>
+
+<div class="grid">
+    <div class="card">
+        <h3>BigQuery Intel</h3>
+        <div class="mb-1">
+            <span class="label">Queries Run</span>
+            <span class="value">{{ stats.total or 0 }}</span>
+        </div>
+        <div class="mb-1">
+            <span class="label">Total Rows</span>
+            <span class="value">{{ stats.total_rows or 0 }}</span>
+        </div>
+        <button onclick="apiCall('bq_summary')">EDR Summary</button>
+        <button onclick="apiCall('bq_parcels')" class="secondary">Parcels</button>
+        <pre id="bq-output">Tap a button...</pre>
+    </div>
+    
+    <div class="card">
+        <h3>Pipeline</h3>
+        <div class="mb-1">
+            <span class="label">7-Phase Forensic</span>
+            <span class="value">READY</span>
+        </div>
+        <button onclick="runPipeline()">Run Full Pipeline</button>
+        <button onclick="runPhase(0)" class="secondary">Phase 1</button>
+        <pre id="pipe-output">Pipeline ready...</pre>
+    </div>
+    
+    <div class="card">
+        <h3>System</h3>
+        <div class="mb-1">
+            <span class="label">Status</span>
+            <span class="badge">ONLINE</span>
+        </div>
+        <button onclick="apiCall('status')">Status</button>
+        <button onclick="apiCall('disk')" class="secondary">Disk</button>
+        <pre id="sys-output">Checking...</pre>
+    </div>
+    
+    <div class="card">
+        <h3>Quick Intel</h3>
+        <button onclick="apiCall('edr')">EDR Hits</button>
+        <button onclick="apiCall('files')" class="secondary">Top Files</button>
+        <button onclick="apiCall('keywords')" class="secondary">Keywords</button>
+        <pre id="intel-output">Tap a button...</pre>
+    </div>
+</div>
+
+<div class="card mt-1">
+    <h3>Quick Commands</h3>
+    <div class="grid">
+        <button onclick="runEDR()">EDR Scan</button>
+        <button onclick="runOCGIS()">OCGIS Scrape</button>
+    </div>
+    <pre id="action-output">Ready...</pre>
+</div>
+
+<script>
+async function apiCall(cmd) {
+    const outputEl = {
+        'bq_summary': 'bq-output', 'bq_parcels': 'bq-output',
+        'status': 'sys-output', 'disk': 'sys-output',
+        'edr': 'intel-output', 'files': 'intel-output', 'keywords': 'intel-output'
+    }[cmd] || 'bq-output';
+    
+    document.getElementById(outputEl).textContent = 'Loading...';
+    
+    try {
+        if (['edr', 'files', 'keywords'].includes(cmd)) {
+            const resp = await fetch('/api/chat', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({message: cmd})
+            });
+            const data = await resp.json();
+            document.getElementById(outputEl).textContent = data.response;
+        } else {
+            const resp = await fetch('/api/chat', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({message: cmd === 'status' ? 'status' : cmd === 'disk' ? 'status' : 'edr'})
+            });
+            const data = await resp.json();
+            document.getElementById(outputEl).textContent = data.response;
+        }
+    } catch(e) {
+        document.getElementById(outputEl).textContent = 'Error: ' + e.message;
+    }
+}
+
+async function runPipeline() {
+    const el = document.getElementById('pipe-output');
+    el.textContent = 'Running pipeline...';
+    try {
+        const resp = await fetch('/api/pipeline/run', {method: 'POST'});
+        const data = await resp.json();
+        let text = `Pipeline complete (${data.total_ms}ms)\n\n`;
+        data.phases.forEach(p => {
+            text += `Phase ${p.phase}: ${p.status} - ${p.name}\n`;
+            if (p.count) text += `  ${p.count} rows\n`;
+        });
+        el.textContent = text;
+    } catch(e) {
+        el.textContent = 'Error: ' + e.message;
+    }
+}
+
+async function runPhase(n) {
+    const el = document.getElementById('pipe-output');
+    el.textContent = `Running phase ${n+1}...`;
+    try {
+        const resp = await fetch('/api/pipeline/run', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({phase: n})
+        });
+        const data = await resp.json();
+        const p = data.phases[0];
+        el.textContent = `Phase ${p.phase}: ${p.status} - ${p.name}\n${p.count ? p.count + ' rows' : ''}`;
+    } catch(e) {
+        el.textContent = 'Error: ' + e.message;
+    }
+}
+
+async function runEDR() {
+    document.getElementById('action-output').textContent = 'Running EDR scan...';
+    const resp = await fetch('/api/chat', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({message: 'run edr'})
+    });
+    const data = await resp.json();
+    document.getElementById('action-output').textContent = data.response;
+}
+
+async function runOCGIS() {
+    document.getElementById('action-output').textContent = 'Running OCGIS scrape...';
+    const resp = await fetch('/api/chat', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({message: 'run ocgis'})
+    });
+    const data = await resp.json();
+    document.getElementById('action-output').textContent = data.response;
+}
+
+// Auto-refresh system status
+setTimeout(() => apiCall('status'), 1000);
+</script>
+{% endblock %}

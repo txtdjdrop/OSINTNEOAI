@@ -1,0 +1,9 @@
+{
+  "Parcels": "",
+  "Tracts": "https://services2.arcgis.com/KaS5yngHhCOBHXdC/arcgis/rest/services/Tracts/FeatureServer",
+  "Storm_Drain_Finder": "https://huntingtonbeach.maps.arcgis.com/apps/instant/media/index.html?appid=18b0849e44a94f878acd366449ed4edc",
+  "Utilities_Viewer": "https://huntingtonbeach.maps.arcgis.com/apps/webappviewer/index.html?id=5c74a8e61dd84585b960b01aaff2d88e",
+  "Subsidence": "https://services2.arcgis.com/KaS5yngHhCOBHXdC/arcgis/rest/services/Subsidence/FeatureServer",
+  "Zoning": "",
+  "Oil_Well_Finder": "https://huntingtonbeach.maps.arcgis.com/apps/instant/media/index.html?appid=3d380a2ffe9a4489ad878ee56fc66405"
+}

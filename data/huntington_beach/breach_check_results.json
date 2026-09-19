@@ -1,0 +1,267 @@
+{
+  "timestamp": "2026-09-19T00:23:08.885933",
+  "total": 53,
+  "compromised": 5,
+  "safe": 0,
+  "errors": 48,
+  "emails": {
+    "tim@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "thomas@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "travis@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "jason@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "alex@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "kelly@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "julie@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "michael@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "jesus@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "brad@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "kalen@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "christian@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "jose@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "joe@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "htun@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "gregory@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "alden@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "casey@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "info@ttsengineering.net": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "richard@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "david@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "benjamin@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "william@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "vince@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "paul@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "ilfat@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "baasandorj@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "marcellus@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "rick@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "khayien@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "contact@rpm-team.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "paul@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "mark@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "david@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "mohdamin@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "HTTPSConnectionPool(host='leakcheck.io', port=443): Read timed out. (read timeout=10)"
+    },
+    "vinay@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "tim@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "jobs@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "info@eecenvironmental.com": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "hbpdinfo@hbpd.org": {
+      "status": "COMPROMISED",
+      "found": 1,
+      "sources": [
+        {
+          "name": "Instagram.com",
+          "date": "2026-01"
+        }
+      ]
+    },
+    "traffic@hbpd.org": {
+      "status": "COMPROMISED",
+      "found": 1,
+      "sources": [
+        {
+          "name": "PoliceOne.com",
+          "date": "2014-07"
+        }
+      ]
+    },
+    "press@hbpd.org": {
+      "status": "COMPROMISED",
+      "found": 1,
+      "sources": [
+        {
+          "name": "Bitly.com",
+          "date": "2014-04"
+        }
+      ]
+    },
+    "crimetips@hbpd.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "psu@hbpd.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "cliaison@hbpd.org": {
+      "status": "COMPROMISED",
+      "found": 1,
+      "sources": [
+        {
+          "name": "PoliceOne.com",
+          "date": "2014-07"
+        }
+      ]
+    },
+    "eric.parra@hbpd.org": {
+      "status": "ERROR",
+      "detail": "HTTPSConnectionPool(host='leakcheck.io', port=443): Read timed out. (read timeout=10)"
+    },
+    "ryan.reilly@hbpd.org": {
+      "status": "ERROR",
+      "detail": "HTTPSConnectionPool(host='leakcheck.io', port=443): Read timed out. (read timeout=10)"
+    },
+    "gabriel.ricci@hbpd.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "julie.toledo@surfcity-hb.org": {
+      "status": "COMPROMISED",
+      "found": 5,
+      "sources": [
+        {
+          "name": "Katapult.com",
+          "date": "2020-09"
+        },
+        {
+          "name": "Netprospex",
+          "date": "2016-01"
+        },
+        {
+          "name": "Apollo",
+          "date": "2018-07"
+        },
+        {
+          "name": "Canva.com",
+          "date": "2019-05"
+        },
+        {
+          "name": "Spectrum.com",
+          "date": "2026-05"
+        }
+      ]
+    },
+    "HBCares@surfcity-hb.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "phtf-casemanagers@surfcity-hb.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "steven.folkes@surfcity-hb.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    },
+    "joseph-pinel@surfcity-hb.org": {
+      "status": "ERROR",
+      "detail": "Not found"
+    }
+  }
+}

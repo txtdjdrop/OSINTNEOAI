@@ -1,0 +1,7 @@
+{
+  "name": "Street_220V",
+  "where": "UPPER(STREETNAME) LIKE '%220V%' OR UPPER(STREET_NAM) LIKE '%220V%' OR UPPER(FULLNAME) LIKE '%220V%'",
+  "count": 0,
+  "time": "2026-09-16T06:52:12.966581",
+  "features": []
+}
