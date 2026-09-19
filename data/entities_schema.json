@@ -1,0 +1,10 @@
+[
+  {"name": "entity_name", "type": "STRING"},
+  {"name": "entity_type", "type": "STRING"},
+  {"name": "email", "type": "STRING"},
+  {"name": "phone", "type": "STRING"},
+  {"name": "address", "type": "STRING"},
+  {"name": "role", "type": "STRING"},
+  {"name": "organization", "type": "STRING"},
+  {"name": "notes", "type": "STRING"}
+]

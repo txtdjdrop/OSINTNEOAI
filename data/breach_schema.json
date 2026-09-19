@@ -1,0 +1,8 @@
+[
+  {"name": "email", "type": "STRING"},
+  {"name": "status", "type": "STRING"},
+  {"name": "breaches", "type": "INTEGER"},
+  {"name": "sources", "type": "STRING"},
+  {"name": "risk_level", "type": "STRING"},
+  {"name": "scan_date", "type": "TIMESTAMP"}
+]

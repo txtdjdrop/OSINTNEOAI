@@ -1,0 +1,14 @@
+[
+  {"name": "award_id", "type": "STRING"},
+  {"name": "funding_agency", "type": "STRING"},
+  {"name": "recipient_name", "type": "STRING"},
+  {"name": "amount_usd", "type": "FLOAT"},
+  {"name": "purpose", "type": "STRING"},
+  {"name": "city", "type": "STRING"},
+  {"name": "state", "type": "STRING"},
+  {"name": "status", "type": "STRING"},
+  {"name": "utxo_tags", "type": "STRING"},
+  {"name": "source_api", "type": "STRING"},
+  {"name": "sha256_hash", "type": "STRING"},
+  {"name": "ingested_at", "type": "STRING"}
+]
